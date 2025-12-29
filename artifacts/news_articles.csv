@@ -1,0 +1,3427 @@
+summary,image,sentiment,language,title,url,source_country,id,text,publish_date,authors,video,category,content
+"India's deep tech startup ecosystem is experiencing rapid growth, with quantum computing emerging as a key frontier. Significant government support, private funding, and academic initiatives are fueling innovation in areas like AI, drug discovery, and cybersecurity. Despite challenges in hardware and long-term funding, India is strategically positioning itself as a global deep-tech hub.","https://img.etimg.com/thumb/msid-125943753,width-1200,height-630,imgsize-104962,overlay-etrise/articleshow.jpg",0.248,en,Exploring the role of quantum computing in next-gen deep tech startups,https://economictimes.indiatimes.com/small-biz/security-tech/technology/exploring-the-role-of-quantum-computing-in-next-gen-deep-tech-startups/articleshow/125943682.cms,in,386971342,"Listen to this article in summarized format
+
+Loading...×
+
+ Subscribe to 
+ Unlock AI Briefing and Premium ContentSubscribe NowWhat's IncludedExclusive StoriesDaily ePaper AccessSmart Market ToolsCurated Investment IdeasAd-lite Experience Subscription
+
+iStockQuantum computing is still nascent, but its potential spans many industries.
+
+India’s deep tech startup ecosystem is booming. As per NASSCOM, India’s deep tech firms – those based on advanced engineering and scientific breakthroughs – grew from about 1,600 in 2019 to over 3,000 by 2024. The ecosystem has seen a surge of government support and private funding. For example, in 2024, Indian deep-tech startups collectively raised about $1.6 billion – a 78% jump from 2023. Elite research campuses mirror this momentum: the Indian Institute of Technology (IIT) Madras alone launched over 100 new deep-tech ventures in the year ending March 2025. Such growth reflects strong fundamentals – abundant engineering talent, a culture of innovation, and supportive policies – positioning India as an emerging global deep-tech hub.Among these emerging fields, quantum computing has drawn particular attention as a potential game-changer. Quantum computers exploit the laws of quantum mechanics to manipulate information in fundamentally new ways. This is a frontier that “promises to speed up computing and solve problems out of reach for today’s machines”.Technology leaders, including Nvidia’s CEO, have highlighted quantum computing as approaching a critical phase of practical applicability. In other words, practical applications of quantum computing could arrive sooner than many expect. Even as AI dominates headlines, analysts warn that quantum is emerging as “another crucial front” in the global tech race for innovation.Quantum in action: Key application areasQuantum computing is still nascent, but its potential spans many industries. Current research and prototypes suggest the following applications:AI and Machine Learning: Quantum techniques could accelerate the training of complex AI models or generate new kinds of data. For instance, quantum algorithms have been shown to generate unique data sets to train AI systems in life sciences. Such hybrid “quantum AI” methods aim to tackle problems that classical computers struggle with, potentially driving advances in image recognition, natural language processing, and beyond.Live EventsDrug Discovery & Materials Science: One of the most touted uses is simulating molecules and materials at the quantum level. Quantum algorithms have shown in early experiments that they can drastically speed up molecular modelling – for example, enabling the measurement of molecular structures to accelerate drug discovery or identify new advanced materials. This could shorten the time to find new medicines or design superconductors, batteries, and other materials by examining quantum interactions that defy classical simulation.Finance and Optimisation: In finance, quantum methods promise to optimise complex systems and risk models. Preliminary studies indicate that quantum processors can speed up tasks like portfolio optimisation, option pricing, and fraud detection. Market analysts forecast rapid growth: the global quantum computing industry is estimated to be between on the order of $5 and $17 billion. Financial modelling and operations research are among the areas expected to see early commercial gains.Cybersecurity – Quantum-Safe Encryption: Quantum computing also reshapes cybersecurity in two ways. First, powerful quantum computers will one day threaten today’s encryption (breaking RSA/ECC). In response, Indian researchers and startups are developing quantum-secure cryptography. For example, quantum key distribution (QKD) uses the physics of qubits to share encryption keys – any eavesdropper causes detectable disturbances, alerting defenders. In simple terms, intercepting a quantum key “collapses” its state and immediately signals an intrusion. India’s defense and telecom sectors are already experimenting with QKD and quantum random-number generators to future-proof communications. These solutions promise next-generation security: unlike classical algorithms, they are rooted in the fundamental laws of physics.Together, these use cases show why quantum computing is attracting cross-sector interest. Whether it’s speeding up AI, discovering a new drug, designing a nanomaterial, optimising a financial portfolio, or securing a network, quantum techniques offer long-term transformative potential.Opportunities and challenges for Indian startupsFor Indian entrepreneurs, quantum computing represents a frontier with huge upside – but also unique hurdles. On the opportunity side, the market potential is enormous. As quoted above, global projections run into the tens of billions, and countries that develop quantum leadership stand to reap strategic and economic benefits. India’s large pool of STEM talent and growing innovation culture provide a foundation to build on. Domestic startups can leverage spillovers from India’s expertise in IT, software, and chip design, applying it to new quantum-based products. Moreover, because quantum technology is still in an early stage globally, Indian companies have a chance to “leapfrog” by focusing on niche strengths or solutions for local industry problems. Finally, India has a compelling cost and diversity advantage: with a vast base of students and researchers in engineering and science, innovation can emerge from across the country — not just major tech hubsHowever, several challenges loom. Quantum computing requires specialised hardware and deep scientific knowledge. Presently, India has only limited capabilities in building qubit devices and quantum chips, relying largely on imported hardware. Analysts emphasize that “India continues to lag in the quantum hardware space”. Overcoming this will require significant investment in R&D and manufacturing.Another challenge is funding and commercialisation timelines. Developing quantum technology is time-consuming and capital-intensive. Startups often need “long-term, patient capital” to reach viability. Many Indian quantum ventures have been primarily financed by angel investors so far, with institutional venture firms playing a smaller role. Experts argue that India will need to attract larger, strategic investments (such as government-backed funds and corporate consortia) to de-risk the field and sustain multi-year R&D. In fact, recent reports urge more investment in quantum hardware and a concerted effort to “create a market for quantum products”, implying that public-private coordination is critical.Despite these obstacles, momentum is strong. However, startups must balance ambition with sustainability, given the long development cycles typical of deep-tech ventures. With government programs and deep-pocketed VCs gradually entering the space, the next few years will be critical to prove concepts and build viable products. “The quantum revolution has begun,” notes one report, and India is working to accelerate from research labs to market-ready solutions.Government, academia, and investor supportRecognising quantum’s strategic importance, Indian institutions have launched several ecosystem-building initiatives:National Quantum Mission (NQM): In 2023, the Union Cabinet approved an eight-year National Quantum Mission with a ₹6,000 crore ($720M) budget. The mission’s goal is to seed and scale quantum R&D and build a domestic industry in India. It aims to develop intermediate-scale quantum computers (50–1000 qubits) and related infrastructure (e.g., quantum communication networks, sensors, and materials). The NQM funds research centers, prototype development, and technology hubs across the country.Thematic Research Hubs: As part of NQM, four thematic hubs have been set up at premier institutions: quantum computing at IISc Bengaluru, quantum communications at IIT Madras, quantum sensing at IIT Bombay, and quantum materials at IIT Delhi. These hubs bring together researchers and startups to collaborate on core technologies. For example, through the NQM and allied programs, Indian institutes are building advanced labs for quantum optics, superconducting qubits, atomic clocks, and more. The mission’s funding also supports developing quantum materials (superconductors, entangled photon sources, etc.) for new devices.Startup Funding Calls: The government has actively engaged with entrepreneurs. The DST’s Quantum Technology Cell regularly issues calls for startup proposals in each quantum domain. Recent announcements include dedicated funding opportunities for quantum computing startups, as well as separate calls for quantum communication, sensing/metrology, and materials/device innovation. Eight promising quantum startups have already been formally supported under the NQM in early rounds. These rolling calls and grants lower the barrier for entrepreneurs by providing capital and mentorship tied to the mission’s goals.Budget and Funds: In the 2025 Union Budget, the government doubled down on deep tech. It allocated Rs20,000 crore (~$2.4B) toward a new fund-of-funds for deep technology R&D, explicitly citing quantum computing, AI, and biotech as target areas. This large pool is intended to catalyse private investment in high-risk, long-term projects. The budget also expanded the existing Startup Fund-of-Funds (additional ₹10,000 crore), part of a broader effort (the ₹1 lakh crore R&D and Innovation scheme) to boost domestic innovation. These financial initiatives signal that India seeks to align public and private capital behind frontier technologies.State and Industry Initiatives: Beyond central programs, some states and companies are making moves. Notably, Andhra Pradesh has launched an “Amaravati Quantum Valley” project. In September 2025, the state announced a ₹40 crore investment to build India’s first Quantum Reference Facility (for testing and benchmarking qubits) and a ₹200 crore plan for a cryogenic components factory – both aimed at laying the foundation for domestic quantum hardware. Similarly, collaborations with industry (e.g., in Amaravati’s plan with IBM and TCS) show growing corporate interest in India’s quantum ambitions.Venture Capital and Alliances: Venture capitalists are increasingly eyeing deep tech. In mid-2025, a new India Deep Tech Investment Alliance (IDTA) was formed by leading U.S. and Indian VC/PE firms to mobilize over $1 billion for India’s deep-tech startups (including quantum). This coalition, aligned with India’s R&D scheme, aims to mobilise long-term investments and global expertise across semiconductors, AI, quantum, and other frontier fields. Its launch illustrates growing confidence: investors are now discussing 5–10 year “patient capital” commitments to these startups.Taken together, these ecosystem efforts – from curricula and labs to grants and funds – create a more fertile environment for quantum innovation. The hope is to create a virtuous cycle: government support attracts entrepreneurs and investment, who then demonstrate viable quantum products and spin off new ventures, which in turn justify more R&D and commercialisation.In a nutshell, India’s deep tech startup ecosystem is entering a quantum-powered phase. Backed by visionary policies and growing capital, the country aims to accelerate quantum research and startups. While challenges in hardware, talent, and market readiness remain, the progress of national missions, university research hubs, and investor initiatives suggests a vibrant path ahead. For those tracking emerging technologies in India, quantum computing is no longer a distant promise – it’s already shaping strategies and collaborations today.The writer is Co-founder & CTO of Sanchiconnect. Views are personal.Add as a Reliable and Trusted News Source Add Now!
+
+(Disclaimer: The opinions expressed in this column are that of the writer. The facts and opinions expressed here do not reflect the views of www.economictimes.com.)
+
+Read More News onquantumquantum computingnational quantum missionunion cabinetnasscom
+
+20 cities. Countless breakthroughs. Secure your spot at the ET Make in India SME Regional Summit.....moreless
+
+Read More News onquantumquantum computingnational quantum missionunion cabinetnasscom20 cities. Countless breakthroughs. Secure your spot at the ET Make in India SME Regional Summit.....moreless
+
+Prime ExclusivesInvestment IdeasStock Report PlusePaperWealth Edition123View all Stories",2025-12-13 03:48:55,['Baltej Singh'],,,"Exploring the role of quantum computing in next-gen deep tech startups
+Listen to this article in summarized format
+
+Loading...×
+
+ Subscribe to 
+ Unlock AI Briefing and Premium ContentSubscribe NowWhat's IncludedExclusive StoriesDaily ePaper AccessSmart Market ToolsCurated Investment IdeasAd-lite Experience Subscription
+
+iStockQuantum computing is still nascent, but its potential spans many industries.
+
+India’s deep tech startup ecosystem is booming. As per NASSCOM, India’s deep tech firms – those based on advanced engineering and scientific breakthroughs – grew from about 1,600 in 2019 to over 3,000 by 2024. The ecosystem has seen a surge of government support and private funding. For example, in 2024, Indian deep-tech startups collectively raised about $1.6 billion – a 78% jump from 2023. Elite research campuses mirror this momentum: the Indian Institute of Technology (IIT) Madras alone launched over 100 new deep-tech ventures in the year ending March 2025. Such growth reflects strong fundamentals – abundant engineering talent, a culture of innovation, and supportive policies – positioning India as an emerging global deep-tech hub.Among these emerging fields, quantum computing has drawn particular attention as a potential game-changer. Quantum computers exploit the laws of quantum mechanics to manipulate information in fundamentally new ways. This is a frontier that “promises to speed up computing and solve problems out of reach for today’s machines”.Technology leaders, including Nvidia’s CEO, have highlighted quantum computing as approaching a critical phase of practical applicability. In other words, practical applications of quantum computing could arrive sooner than many expect. Even as AI dominates headlines, analysts warn that quantum is emerging as “another crucial front” in the global tech race for innovation.Quantum in action: Key application areasQuantum computing is still nascent, but its potential spans many industries. Current research and prototypes suggest the following applications:AI and Machine Learning: Quantum techniques could accelerate the training of complex AI models or generate new kinds of data. For instance, quantum algorithms have been shown to generate unique data sets to train AI systems in life sciences. Such hybrid “quantum AI” methods aim to tackle problems that classical computers struggle with, potentially driving advances in image recognition, natural language processing, and beyond.Live EventsDrug Discovery & Materials Science: One of the most touted uses is simulating molecules and materials at the quantum level. Quantum algorithms have shown in early experiments that they can drastically speed up molecular modelling – for example, enabling the measurement of molecular structures to accelerate drug discovery or identify new advanced materials. This could shorten the time to find new medicines or design superconductors, batteries, and other materials by examining quantum interactions that defy classical simulation.Finance and Optimisation: In finance, quantum methods promise to optimise complex systems and risk models. Preliminary studies indicate that quantum processors can speed up tasks like portfolio optimisation, option pricing, and fraud detection. Market analysts forecast rapid growth: the global quantum computing industry is estimated to be between on the order of $5 and $17 billion. Financial modelling and operations research are among the areas expected to see early commercial gains.Cybersecurity – Quantum-Safe Encryption: Quantum computing also reshapes cybersecurity in two ways. First, powerful quantum computers will one day threaten today’s encryption (breaking RSA/ECC). In response, Indian researchers and startups are developing quantum-secure cryptography. For example, quantum key distribution (QKD) uses the physics of qubits to share encryption keys – any eavesdropper causes detectable disturbances, alerting defenders. In simple terms, intercepting a quantum key “collapses” its state and immediately signals an intrusion. India’s defense and telecom sectors are already experimenting with QKD and quantum random-number generators to future-proof communications. These solutions promise next-generation security: unlike classical algorithms, they are rooted in the fundamental laws of physics.Together, these use cases show why quantum computing is attracting cross-sector interest. Whether it’s speeding up AI, discovering a new drug, designing a nanomaterial, optimising a financial portfolio, or securing a network, quantum techniques offer long-term transformative potential.Opportunities and challenges for Indian startupsFor Indian entrepreneurs, quantum computing represents a frontier with huge upside – but also unique hurdles. On the opportunity side, the market potential is enormous. As quoted above, global projections run into the tens of billions, and countries that develop quantum leadership stand to reap strategic and economic benefits. India’s large pool of STEM talent and growing innovation culture provide a foundation to build on. Domestic startups can leverage spillovers from India’s expertise in IT, software, and chip design, applying it to new quantum-based products. Moreover, because quantum technology is still in an early stage globally, Indian companies have a chance to “leapfrog” by focusing on niche strengths or solutions for local industry problems. Finally, India has a compelling cost and diversity advantage: with a vast base of students and researchers in engineering and science, innovation can emerge from across the country — not just major tech hubsHowever, several challenges loom. Quantum computing requires specialised hardware and deep scientific knowledge. Presently, India has only limited capabilities in building qubit devices and quantum chips, relying largely on imported hardware. Analysts emphasize that “India continues to lag in the quantum hardware space”. Overcoming this will require significant investment in R&D and manufacturing.Another challenge is funding and commercialisation timelines. Developing quantum technology is time-consuming and capital-intensive. Startups often need “long-term, patient capital” to reach viability. Many Indian quantum ventures have been primarily financed by angel investors so far, with institutional venture firms playing a smaller role. Experts argue that India will need to attract larger, strategic investments (such as government-backed funds and corporate consortia) to de-risk the field and sustain multi-year R&D. In fact, recent reports urge more investment in quantum hardware and a concerted effort to “create a market for quantum products”, implying that public-private coordination is critical.Despite these obstacles, momentum is strong. However, startups must balance ambition with sustainability, given the long development cycles typical of deep-tech ventures. With government programs and deep-pocketed VCs gradually entering the space, the next few years will be critical to prove concepts and build viable products. “The quantum revolution has begun,” notes one report, and India is working to accelerate from research labs to market-ready solutions.Government, academia, and investor supportRecognising quantum’s strategic importance, Indian institutions have launched several ecosystem-building initiatives:National Quantum Mission (NQM): In 2023, the Union Cabinet approved an eight-year National Quantum Mission with a ₹6,000 crore ($720M) budget. The mission’s goal is to seed and scale quantum R&D and build a domestic industry in India. It aims to develop intermediate-scale quantum computers (50–1000 qubits) and related infrastructure (e.g., quantum communication networks, sensors, and materials). The NQM funds research centers, prototype development, and technology hubs across the country.Thematic Research Hubs: As part of NQM, four thematic hubs have been set up at premier institutions: quantum computing at IISc Bengaluru, quantum communications at IIT Madras, quantum sensing at IIT Bombay, and quantum materials at IIT Delhi. These hubs bring together researchers and startups to collaborate on core technologies. For example, through the NQM and allied programs, Indian institutes are building advanced labs for quantum optics, superconducting qubits, atomic clocks, and more. The mission’s funding also supports developing quantum materials (superconductors, entangled photon sources, etc.) for new devices.Startup Funding Calls: The government has actively engaged with entrepreneurs. The DST’s Quantum Technology Cell regularly issues calls for startup proposals in each quantum domain. Recent announcements include dedicated funding opportunities for quantum computing startups, as well as separate calls for quantum communication, sensing/metrology, and materials/device innovation. Eight promising quantum startups have already been formally supported under the NQM in early rounds. These rolling calls and grants lower the barrier for entrepreneurs by providing capital and mentorship tied to the mission’s goals.Budget and Funds: In the 2025 Union Budget, the government doubled down on deep tech. It allocated Rs20,000 crore (~$2.4B) toward a new fund-of-funds for deep technology R&D, explicitly citing quantum computing, AI, and biotech as target areas. This large pool is intended to catalyse private investment in high-risk, long-term projects. The budget also expanded the existing Startup Fund-of-Funds (additional ₹10,000 crore), part of a broader effort (the ₹1 lakh crore R&D and Innovation scheme) to boost domestic innovation. These financial initiatives signal that India seeks to align public and private capital behind frontier technologies.State and Industry Initiatives: Beyond central programs, some states and companies are making moves. Notably, Andhra Pradesh has launched an “Amaravati Quantum Valley” project. In September 2025, the state announced a ₹40 crore investment to build India’s first Quantum Reference Facility (for testing and benchmarking qubits) and a ₹200 crore plan for a cryogenic components factory – both aimed at laying the foundation for domestic quantum hardware. Similarly, collaborations with industry (e.g., in Amaravati’s plan with IBM and TCS) show growing corporate interest in India’s quantum ambitions.Venture Capital and Alliances: Venture capitalists are increasingly eyeing deep tech. In mid-2025, a new India Deep Tech Investment Alliance (IDTA) was formed by leading U.S. and Indian VC/PE firms to mobilize over $1 billion for India’s deep-tech startups (including quantum). This coalition, aligned with India’s R&D scheme, aims to mobilise long-term investments and global expertise across semiconductors, AI, quantum, and other frontier fields. Its launch illustrates growing confidence: investors are now discussing 5–10 year “patient capital” commitments to these startups.Taken together, these ecosystem efforts – from curricula and labs to grants and funds – create a more fertile environment for quantum innovation. The hope is to create a virtuous cycle: government support attracts entrepreneurs and investment, who then demonstrate viable quantum products and spin off new ventures, which in turn justify more R&D and commercialisation.In a nutshell, India’s deep tech startup ecosystem is entering a quantum-powered phase. Backed by visionary policies and growing capital, the country aims to accelerate quantum research and startups. While challenges in hardware, talent, and market readiness remain, the progress of national missions, university research hubs, and investor initiatives suggests a vibrant path ahead. For those tracking emerging technologies in India, quantum computing is no longer a distant promise – it’s already shaping strategies and collaborations today.The writer is Co-founder & CTO of Sanchiconnect. Views are personal.Add as a Reliable and Trusted News Source Add Now!
+
+(Disclaimer: The opinions expressed in this column are that of the writer. The facts and opinions expressed here do not reflect the views of www.economictimes.com.)
+
+Read More News onquantumquantum computingnational quantum missionunion cabinetnasscom
+
+20 cities. Countless breakthroughs. Secure your spot at the ET Make in India SME Regional Summit.....moreless
+
+Read More News onquantumquantum computingnational quantum missionunion cabinetnasscom20 cities. Countless breakthroughs. Secure your spot at the ET Make in India SME Regional Summit.....moreless
+
+Prime ExclusivesInvestment IdeasStock Report PlusePaperWealth Edition123View all Stories"
+Port is assisting the software industry&rsquo;s transition from manual to autonomous engineering through its Agentic Engineering Platform.,https://res.cloudinary.com/globes/image/upload/t_800X392/v1765449341/direct/%D7%96%D7%95%D7%94%D7%A8_%D7%A2%D7%99%D7%A0%D7%99_%D7%95%D7%99%D7%95%D7%A0%D7%AA%D7%9F_%D7%91%D7%95%D7%92%D7%95%D7%A1%D7%9C%D7%91%D7%A1%D7%A7%D7%99_%D7%9E%D7%99%D7%99%D7%A1%D7%93%,0.037,en,Israeli startup Port raises $100m at $800m valuation,https://en.globes.co.il/en/article-1001528942,il,386968124,"Israeli agentic developer portal Port today announced the completion of a $100 million Series C financing round led by General Atlantic with participation from Accel, Bessemer Venture Partners and Team8. The round gives Port a valuation of $800 million and brings total funding raised to date to $158 million.
+
+The investment will allow Port to assist the software industry’s transition from manual to autonomous engineering through its Agentic Engineering Platform (AEP). The company powers hundreds of customers worldwide including GitHub, British Telecom, Visa, Sonar, StubHub, Serko, and Nando's. Port has seen major customer growth and 300% revenue increase in the past year.
+
+Port's AEP allows AI agents to handle operational responsibilities across the entire software lifecycle. Agents process tickets from coding to production, self-heal incidents, remediate vulnerabilities, and maintain compliance standards, unlocking unprecedented velocity while keeping humans in control. The platform connects to the entire tech stack to provide agents with necessary context, implements guardrails to ensure safe and consistent actions, and orchestrates workflows through a unified engine.
+
+Port was founded by CEO Zohar Einy and CTO Yonatan Boguslavski. Before Port, Einy cofounded Aporia, backed by TLV Partners, which also invested in Port in previous rounds.
+
+Einy said, ""The big question in our industry is what engineering looks like in an AI world. Our view is simple: humans and agents will run the Software Development Life Cycle (SDLC) together. Agents take on the operational load, humans stay in control, and organizations gain a level of velocity we've never had before. That's the future we're building with Port.""
+
+Published by Globes, Israel business news - en.globes.co.il - on December 11, 2025.
+
+© Copyright of Globes Publisher Itonut (1983) Ltd., 2025.",2025-12-11 11:00:00,['Globes Correspondent'],,politics,"Israeli startup Port raises $100m at $800m valuation
+Israeli agentic developer portal Port today announced the completion of a $100 million Series C financing round led by General Atlantic with participation from Accel, Bessemer Venture Partners and Team8. The round gives Port a valuation of $800 million and brings total funding raised to date to $158 million.
+
+The investment will allow Port to assist the software industry’s transition from manual to autonomous engineering through its Agentic Engineering Platform (AEP). The company powers hundreds of customers worldwide including GitHub, British Telecom, Visa, Sonar, StubHub, Serko, and Nando's. Port has seen major customer growth and 300% revenue increase in the past year.
+
+Port's AEP allows AI agents to handle operational responsibilities across the entire software lifecycle. Agents process tickets from coding to production, self-heal incidents, remediate vulnerabilities, and maintain compliance standards, unlocking unprecedented velocity while keeping humans in control. The platform connects to the entire tech stack to provide agents with necessary context, implements guardrails to ensure safe and consistent actions, and orchestrates workflows through a unified engine.
+
+Port was founded by CEO Zohar Einy and CTO Yonatan Boguslavski. Before Port, Einy cofounded Aporia, backed by TLV Partners, which also invested in Port in previous rounds.
+
+Einy said, ""The big question in our industry is what engineering looks like in an AI world. Our view is simple: humans and agents will run the Software Development Life Cycle (SDLC) together. Agents take on the operational load, humans stay in control, and organizations gain a level of velocity we've never had before. That's the future we're building with Port.""
+
+Published by Globes, Israel business news - en.globes.co.il - on December 11, 2025.
+
+© Copyright of Globes Publisher Itonut (1983) Ltd., 2025."
+"Goldman Sachs has led Harness's Series E round, with participation from IVP, Menlo Ventures, and Unusual Ventures.","https://techcrunch.com/wp-content/uploads/2025/12/jyoti-bansal-harness-founder.jpg?resize=1200,800",0.067,en,Harness hits $5.5B valuation with $240M raise to automate AI’s ‘after-code’ gap,https://techcrunch.com/2025/12/11/harness-hits-5-5b-valuation-with-240m-to-automate-ais-after-code-gap/,us,386961842,"AI DevOps tool Harness, founded in 2017 by serial entrepreneur Jyoti Bansal, is on track to exceed $250 million in annual recurring revenue in 2025, Bansal tells TechCrunch. 
+
+The startup just raised a fresh $240 million Series E funding round that values the company at $5.5 billion post-money.
+
+The round includes a $200 million primary investment led by Goldman Sachs and a planned $40 million tender offer with participation from IVP, Menlo Ventures, and Unusual Ventures. The tender offer is intended to provide some liquidity to its long-term employees, Bansal said.
+
+The new valuation is a 49% jump from its $3.7 billion valuation in a $230 million round in April 2022. With this funding, the startup has raised $570 million of equity to date.
+
+As AI accelerates code production, it is widening a bottleneck in the far larger “after-code” phase of software development — the testing, security checks, and deployment work that still consumes nearly 70% of engineering time. Harness’s tools help automate this sprawling, error-prone layer, even as enterprises grapple with rising AI code volume and the risks of shipping even a single line of faulty software into production systems.
+
+Bansal is well known among developers for building and selling app performance company AppDynamics to Cisco for $3.7 billion in 2017. So the post-coding world is an area Bansal knows well.
+
+Harness uses AI agents to automate functions like testing, verification, security, and governance. It is built on a software delivery knowledge graph that maps code changes, services, deployments, tests, environments, incidents, policies, and costs. The knowledge graph helps differentiate Harness from other AI platforms, Bansal said, because it gives the system a deep understanding of each customer’s software delivery processes and architecture.
+
+“This knowledge graph is the context that our AI agents use,” he told TechCrunch.
+
+The purpose-built agents draw on that context to generate pipelines that match each customer’s specific policies, architecture, and operational requirements.
+
+Harness also uses an orchestration engine that turns the AI’s recommendations into automated actions, with checks in place to make sure those changes are applied safely.
+
+As AI is not foolproof, Bansal said the system is designed with human oversight, noting that AI-generated tests or fixes are reviewed by engineers, compliance teams, or auditors before being put into use.
+
+Microsoft’s GitHub, GitLab, Jenkins, and CloudBees are among the key competitors for Harness. But Harness has plenty of traction, claiming more than 1,000 enterprise customers, including United Airlines, Morningstar, Keller Williams, and National Australia Bank. So far, the startup has handled 128 million deployments, 81 million builds, protected 1.2 trillion API calls, and helped customers optimize $1.9 billion in cloud spending over the past year, Bansal touts.
+
+The San Francisco–based company employs over 1,200 people across 14 offices worldwide, including in Europe and the U.K. Around 33% of its workforce is in India, where it has a large engineering team in Bengaluru and a corporate office in Gurugram. Moreover, the Bengaluru site is Harness’s biggest development center outside the U.S.
+
+Harness plans to use the new funding to expand its R&D efforts, hire “hundreds of engineers” at its Bengaluru office, and build out additional automated testing, deployment, and security capabilities while improving the accuracy of its AI systems. The company also intends to strengthen its U.S. go-to-market operations and significantly expand its presence in international markets.
+
+It should also be noted that earlier this year, Bansal merged his software observability firm Traceable with Harness, and that move has helped the startup grow its ARR projection.
+
+“We brought the two companies together because we started to see that DevOps and application security are coming together in a very, very deep way,” said Bansal. “We have seen that turned out to be a very, very successful thesis this year … that’s driving a lot of growth for both of our DevOps and application security set of products.”
+
+While this raise has allowed some employees to cash out a bit, Bansal still plans on taking Harness public one day, he said, though he did not share a specific timeline.
+
+“That’s what our goals and plans depend on,” he said of an eventual IPO. “Our business is very, very healthy, very strong, high growth and margins, and it will be a great public company when the timing is right.”",2025-12-11 10:30:00,['Jagmeet Singh'],,,"Harness hits $5.5B valuation with $240M raise to automate AI’s ‘after-code’ gap
+AI DevOps tool Harness, founded in 2017 by serial entrepreneur Jyoti Bansal, is on track to exceed $250 million in annual recurring revenue in 2025, Bansal tells TechCrunch. 
+
+The startup just raised a fresh $240 million Series E funding round that values the company at $5.5 billion post-money.
+
+The round includes a $200 million primary investment led by Goldman Sachs and a planned $40 million tender offer with participation from IVP, Menlo Ventures, and Unusual Ventures. The tender offer is intended to provide some liquidity to its long-term employees, Bansal said.
+
+The new valuation is a 49% jump from its $3.7 billion valuation in a $230 million round in April 2022. With this funding, the startup has raised $570 million of equity to date.
+
+As AI accelerates code production, it is widening a bottleneck in the far larger “after-code” phase of software development — the testing, security checks, and deployment work that still consumes nearly 70% of engineering time. Harness’s tools help automate this sprawling, error-prone layer, even as enterprises grapple with rising AI code volume and the risks of shipping even a single line of faulty software into production systems.
+
+Bansal is well known among developers for building and selling app performance company AppDynamics to Cisco for $3.7 billion in 2017. So the post-coding world is an area Bansal knows well.
+
+Harness uses AI agents to automate functions like testing, verification, security, and governance. It is built on a software delivery knowledge graph that maps code changes, services, deployments, tests, environments, incidents, policies, and costs. The knowledge graph helps differentiate Harness from other AI platforms, Bansal said, because it gives the system a deep understanding of each customer’s software delivery processes and architecture.
+
+“This knowledge graph is the context that our AI agents use,” he told TechCrunch.
+
+The purpose-built agents draw on that context to generate pipelines that match each customer’s specific policies, architecture, and operational requirements.
+
+Harness also uses an orchestration engine that turns the AI’s recommendations into automated actions, with checks in place to make sure those changes are applied safely.
+
+As AI is not foolproof, Bansal said the system is designed with human oversight, noting that AI-generated tests or fixes are reviewed by engineers, compliance teams, or auditors before being put into use.
+
+Microsoft’s GitHub, GitLab, Jenkins, and CloudBees are among the key competitors for Harness. But Harness has plenty of traction, claiming more than 1,000 enterprise customers, including United Airlines, Morningstar, Keller Williams, and National Australia Bank. So far, the startup has handled 128 million deployments, 81 million builds, protected 1.2 trillion API calls, and helped customers optimize $1.9 billion in cloud spending over the past year, Bansal touts.
+
+The San Francisco–based company employs over 1,200 people across 14 offices worldwide, including in Europe and the U.K. Around 33% of its workforce is in India, where it has a large engineering team in Bengaluru and a corporate office in Gurugram. Moreover, the Bengaluru site is Harness’s biggest development center outside the U.S.
+
+Harness plans to use the new funding to expand its R&D efforts, hire “hundreds of engineers” at its Bengaluru office, and build out additional automated testing, deployment, and security capabilities while improving the accuracy of its AI systems. The company also intends to strengthen its U.S. go-to-market operations and significantly expand its presence in international markets.
+
+It should also be noted that earlier this year, Bansal merged his software observability firm Traceable with Harness, and that move has helped the startup grow its ARR projection.
+
+“We brought the two companies together because we started to see that DevOps and application security are coming together in a very, very deep way,” said Bansal. “We have seen that turned out to be a very, very successful thesis this year … that’s driving a lot of growth for both of our DevOps and application security set of products.”
+
+While this raise has allowed some employees to cash out a bit, Bansal still plans on taking Harness public one day, he said, though he did not share a specific timeline.
+
+“That’s what our goals and plans depend on,” he said of an eventual IPO. “Our business is very, very healthy, very strong, high growth and margins, and it will be a great public company when the timing is right.”"
+"Intel pursued deals that boosted CEO Lip-Bu Tan&#39;s fortune, sources say","https://dam.mediacorp.sg/image/upload/s--ew7LHNFI--/c_fill,g_auto,h_338,w_600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-10T202405Z_1_LYNXMPELB917K_RTROPTP_3_TAIWAN-COMPUTEX-INTEL.JPG?i",-0.183,en,"Intel pursued deals that boosted CEO Lip-Bu Tan&#39;s fortune, sources say",https://www.channelnewsasia.com/business/intel-pursued-deals-boosted-ceo-lip-bu-tans-fortune-sources-say-5574846,au,386923474,"SAN FRANCISCO, Dec 10 : When the chairman of AI chip startup Rivos wanted Intel to bid for the company, he had no need to phone the chip giant. That’s because the chairman of Rivos was also Intel’s CEO: Lip-Bu Tan.
+
+Tan had pitched Intel’s board on buying Rivos in the summer of 2025, but he had no luck. The board told Tan he had a conflict in representing both Rivos’ interests and Intel’s, and he lacked a strategy on artificial intelligence to justify a deal, three people familiar with the events told Reuters.
+
+Tan asked one of his lieutenants at Intel to pitch a new AI plan, leading to partnership talks with Rivos, the people said. But now there was a problem: social media giant Meta had been stalking Rivos and made an offer for the company.
+
+Meta’s interest spurred Intel to make its own offer. Meta countered with a sweetened bid. The competition for the startup drove the deal and incentives above the $2 billion valuation that Rivos had sought in fundraising earlier this year. Some of the sources pinned this package at around $4 billion.
+
+Meta announced plans to buy Rivos in September. By then the bidding process had boosted the startup’s returns at Meta’s expense.
+
+Reuters was unable to determine how much the Intel CEO profited personally as a Rivos shareholder because the financials are not public. But in a blog post on its website, Tan’s venture-capital firm, Walden Catalyst, touted how he had delivered a “successful outcome” for its investors and congratulated the Rivos team for their “remarkable achievement.”
+
+The events show one of at least three instances where Intel has pursued deals that benefit Tan financially either by exploring bids for startups or investing in them directly through Intel’s investment arm, Intel Capital, said two of the sources. 
+
+Intel declined to make Tan available for an interview for this story. Meta did not respond to requests for comment, and Rivos declined to comment.
+
+VENTURE CAPITALIST AS CEO
+
+Intel hired Tan in March in part for his experience as a venture capitalist and unparalleled industry connections as a longtime investor in tech companies. Those connections have helped Intel clinch a $5 billion investment from Nvidia and a $2 billion investment from SoftBank.
+
+Since Tan’s arrival, Intel has implemented policies requiring Tan to recuse himself from participating in investment decisions where he might benefit, two sources said. Specifically, Tan cannot attend or vote in decision meetings of Intel’s board or Intel Capital’s investment committee if he has a conflict in a venture or company-wide transaction, the sources said.
+
+Such recusals are commonplace in industry. But they had not been an issue to the same degree at Intel because its leadership prior to Tan had fewer potentially conflicting investments, three of the sources said.
+
+In the event of a Tan recusal for Intel Capital, the first two sources said, decision-making authority for the venture unit’s investment committee goes to Chief Financial Officer David Zinsner, who reports to Tan.
+
+Intel declined to make Zinsner available for an interview.
+
+Intel’s board knew when it appointed Tan that his web of investments in chip and technology companies could create conflicts, but the board accepted this, hoping that Tan can revive the iconic U.S. chipmaker, which lost $19 billion last year, one of the people said.
+
+Intel’s 11 independent board directors did not individually comment on Tan, but in response to Reuters queries, an Intel spokesperson said: “The Board of Directors believes it’s important that Intel fully leverage his vast network and position Intel to capture the next wave of industry innovation and opportunity.”
+
+Tan’s dealmaking comes as the administration of President Donald Trump agreed to make an $8.9 billion investment for what would be the largest ownership stake in the chipmaker, designating it as strategic to the U.S. and effectively making its citizens shareholders.
+
+Some chip-industry analysts have said in research notes that they welcomed Tan’s industry relationships. “He has a wide view across the ecosystem,” said Bernstein analyst Stacy Rasgon in an interview with Reuters. “And that’s helpful for Intel.”
+
+Tan does not perceive his dealmaking at Intel to be conflicted, said two of the sources, who are familiar with his thinking. Tan believes that his roles at these startups and at Intel make him uniquely able to negotiate transactions that benefit all parties, the people said.
+
+In a statement, an Intel spokesperson disputed that Tan’s dealmaking posed any problem. “The company has an unwavering commitment to the highest standards of corporate governance, integrity, and accountability,” the spokesperson said. Tan’s “extensive relationships across the global semiconductor ecosystem are invaluable as Intel positions itself to capitalize on a rapidly evolving industry landscape.”
+
+The Securities and Exchange Commission would not require Intel to disclose related-party transactions that could involve Tan until the spring of 2026, a year after its last disclosure, which took place the week after his start date.
+
+U.S. regulations require such disclosures when transactions personally benefiting corporate officers exceed $120,000, though experts have said smaller dollar amounts can be material to investors if the information would inform a decision to sell or purchase stock.
+
+DEALS TO REVIVE INTEL’S AI STRATEGY
+
+Tan believed Intel needed to buy Rivos because earlier in-house efforts to enter the AI chip market had failed, one of the sources said. In the statement, the Intel spokesperson said Tan was “advancing its AI strategy” and “revitalizing its engineering-centric, customer-first culture.”
+
+Rivos was one of the major targets for Intel where Tan had interests on both sides of the deal. Tan also pitched Intel’s board on buying the troubled AI computing startup SambaNova, where Tan served as executive chairman, the first three sources said.
+
+The rationale - debated inside Intel - was that SambaNova also could provide more tech and talent to build AI chips, the sources said.
+
+SambaNova declined to comment on any talks between the startup and Intel. “While we’re always exploring strategic options, our focus remains on accelerating the roadmap, delivering products to market, and supporting our customers,” a spokesperson said.
+
+Intel also declined to comment on the SambaNova talks.
+
+Tan’s portfolio has drawn scrutiny before. In April, Reuters documented how Tan’s investment firms had stakes in more than 600 Chinese companies, some with military ties, drawing a rebuke by Trump that the U.S. chip manufacturer’s CEO was ""highly CONFLICTED.”
+
+According to a White House official, Tan subsequently cleared up Trump’s concerns in an Oval Office meeting, which paved the way for collaboration on U.S. national and economic security. In September, Trump publicly celebrated Intel’s rising share price following Tan’s Nvidia deal.
+
+Intel’s share price has roughly doubled since Tan’s appointment, outpacing the percentage gains of the S&P 500 and chip leader Nvidia in that time. 
+
+TAKING CONTROL OF INTEL CAPITAL
+
+Soon after his appointment as CEO, Tan took direct control of Intel’s investment arm, Intel Capital, reversing a plan to spin it off. Instead, he reorganized the company so that Intel Capital would report to him, according to two of the sources, for reasons Intel has not disclosed. Its investment committee would be composed solely of Tan and one of his direct reports, finance chief Zinsner, said three people familiar with the change.
+
+Since then, Intel Capital has invested in several companies in which Tan has a stake through his investment vehicles or venture capital firms, which include A&E Investment LLC, Celesta Capital and Walden International, three of the sources said. Some Intel staff have felt an obligation to explore such deals to win Tan’s support, two of them said.
+
+One such investment was in proteanTecs, which announced a late-stage, Series D funding round in September. Intel Capital upped its existing stake in the startup, helping increase the value of Tan’s holdings through A&E Investment and Celesta Capital, funding data shows.
+
+ProteanTecs declined to comment. A&E Investment, Walden Catalyst and Walden International did not respond to requests for comment. In a statement, Celesta Capital said Tan ""has always acted with integrity and a commitment to doing what is right for all stakeholders.”
+
+Before Tan became CEO, Intel Capital co-invested with him or his investment firms at least 12 times since 2019, funding announcements show.
+
+Intel is not alone in having a venture capital arm. That’s common at large technology companies, including Nvidia, Microsoft, Alphabet and Qualcomm. But unlike those other companies, Intel is unusual in having a CEO who oversees its venture unit while also leading unrelated investment firms, a Reuters review of leadership at those companies shows.
+
+Reuters was unable to determine how much Intel’s recent investments had in total increased Tan’s net worth, estimated to be well over $500 million.
+
+Two corporate governance experts consulted by Reuters said Tan’s dealmaking raises red flags due to the conflicts inherent in forging deals with his own portfolio companies.
+
+One of them also said that Intel could benefit from Tan’s connections. “You don't want to preclude making good investments because your CEO is well connected,” said Daniel Taylor, a professor at the Wharton School specializing in corporate disclosures and insider trading.
+
+TAN TOUTS HIS BOOK 
+
+ The Intel CEO has consistently highlighted his portfolio in public appearances. In one of his first presentations as the Intel chief in March, he talked up his 251 chip-related investments, an online video from the occasion shows. 
+
+At an October chip conference in Phoenix, Tan gave a speech representing Intel that featured slides touting still more holdings, including in proteanTecs and SambaNova.
+
+Intel’s code of conduct encourages executives to disclose potential conflicts to the company’s board and top legal and compliance officers for resolution. “We avoid situations that interfere or appear to interfere with our ability to act in the best interests of Intel,” the code of conduct states. It adds that staff must mind conflicts arising from “an ownership interest in an Intel supplier, customer, or competitor” and from “outside employment that interferes with your obligations to Intel.”
+
+The two corporate governance experts said Tan should have dropped his portfolio investments, placed them in a blind trust or set up a special committee of the board to remove potential conflicts with his investment portfolio. Some lawyers have said special committees are not always necessary, and some scholars argue outside board roles apprise executives of strategic information.
+
+Intel declined to say if Tan had taken any such measure.
+
+The Intel board’s independent Audit Committee “actively monitors, reviews, and approves, as appropriate, any related-party transactions in strict accordance with Intel’s rigorous Related-Party Transactions Policy,” the company spokesperson said.
+
+The policy has exceptions. Transactions in which an Intel executive owns less than 10 per cent of a company that is party to a deal, whose value does not exceed $1 million or 2 per cent of that company’s revenue, are deemed to be “pre-cleared,” the policy states. It was not clear how many investments by Intel, if any, fell under this policy, which pre-dated Tan’s leadership. 
+
+INTEL EXPLORES BID FOR A STRUGGLING STARTUP
+
+In 2018, SambaNova was a startup with lofty ambitions to build an AI computing system that could rival Nvidia’s AI hardware and software ecosystem. Tan’s venture firm Walden International co-led SambaNova’s $56 million Series A funding round that year, which secured Tan’s position on its board. 
+
+Over the years, SambaNova hoovered up money from investors: more from Tan’s venture firm and, around 2021, a big check from SoftBank, where Tan served as a board director until 2022. The $676 million Series D round led by SoftBank valued SambaNova at around $5 billion and gave Tan’s holdings a healthy increase on paper.
+
+SoftBank declined to answer if Tan had a role in persuading it to invest in SambaNova. 
+
+But the startup’s ambitious vision wasn’t panning out, three people familiar with the matter said. Customers had more demand for Nvidia’s chips, which are good for a wide variety of uses in AI. That contrasts with the silicon from SambaNova, which is designed for more specific AI applications.
+
+In 2024, Tan stepped in as SambaNova’s new executive chairman in the hopes that he could help grow its business faster. The company was poised to run out of its cash, three people familiar with the matter said. It laid off 77 people in California, or reportedly about 15 per cent of its staff, in April. 
+
+The chip startup tried to drum up interest for another funding round, but found few takers, two sources said. Its revenue meant it would have to fundraise or go up for sale at a lower valuation, said the people and a third source. Bankers pegged its worth at $2 billion to around $3 billion at most, two of the sources said.
+
+Tan asked Intel to look at a deal with the chipmaker over the summer, three sources said. 
+
+In recent weeks, some of SambaNova’s investors provided additional financing to tide over the startup, two people familiar with the insider round said. 
+
+In a statement to Reuters, a SambaNova spokesperson confirmed the startup recently secured additional funding, adding its business “is performing really well.”
+
+Deal talks with SambaNova are ongoing, two of the sources said. Intel and SambaNova have signed a non-binding term sheet, one of them said.",2025-12-11 03:03:05,,,,"Intel pursued deals that boosted CEO Lip-Bu Tan&#39;s fortune, sources say
+SAN FRANCISCO, Dec 10 : When the chairman of AI chip startup Rivos wanted Intel to bid for the company, he had no need to phone the chip giant. That’s because the chairman of Rivos was also Intel’s CEO: Lip-Bu Tan.
+
+Tan had pitched Intel’s board on buying Rivos in the summer of 2025, but he had no luck. The board told Tan he had a conflict in representing both Rivos’ interests and Intel’s, and he lacked a strategy on artificial intelligence to justify a deal, three people familiar with the events told Reuters.
+
+Tan asked one of his lieutenants at Intel to pitch a new AI plan, leading to partnership talks with Rivos, the people said. But now there was a problem: social media giant Meta had been stalking Rivos and made an offer for the company.
+
+Meta’s interest spurred Intel to make its own offer. Meta countered with a sweetened bid. The competition for the startup drove the deal and incentives above the $2 billion valuation that Rivos had sought in fundraising earlier this year. Some of the sources pinned this package at around $4 billion.
+
+Meta announced plans to buy Rivos in September. By then the bidding process had boosted the startup’s returns at Meta’s expense.
+
+Reuters was unable to determine how much the Intel CEO profited personally as a Rivos shareholder because the financials are not public. But in a blog post on its website, Tan’s venture-capital firm, Walden Catalyst, touted how he had delivered a “successful outcome” for its investors and congratulated the Rivos team for their “remarkable achievement.”
+
+The events show one of at least three instances where Intel has pursued deals that benefit Tan financially either by exploring bids for startups or investing in them directly through Intel’s investment arm, Intel Capital, said two of the sources. 
+
+Intel declined to make Tan available for an interview for this story. Meta did not respond to requests for comment, and Rivos declined to comment.
+
+VENTURE CAPITALIST AS CEO
+
+Intel hired Tan in March in part for his experience as a venture capitalist and unparalleled industry connections as a longtime investor in tech companies. Those connections have helped Intel clinch a $5 billion investment from Nvidia and a $2 billion investment from SoftBank.
+
+Since Tan’s arrival, Intel has implemented policies requiring Tan to recuse himself from participating in investment decisions where he might benefit, two sources said. Specifically, Tan cannot attend or vote in decision meetings of Intel’s board or Intel Capital’s investment committee if he has a conflict in a venture or company-wide transaction, the sources said.
+
+Such recusals are commonplace in industry. But they had not been an issue to the same degree at Intel because its leadership prior to Tan had fewer potentially conflicting investments, three of the sources said.
+
+In the event of a Tan recusal for Intel Capital, the first two sources said, decision-making authority for the venture unit’s investment committee goes to Chief Financial Officer David Zinsner, who reports to Tan.
+
+Intel declined to make Zinsner available for an interview.
+
+Intel’s board knew when it appointed Tan that his web of investments in chip and technology companies could create conflicts, but the board accepted this, hoping that Tan can revive the iconic U.S. chipmaker, which lost $19 billion last year, one of the people said.
+
+Intel’s 11 independent board directors did not individually comment on Tan, but in response to Reuters queries, an Intel spokesperson said: “The Board of Directors believes it’s important that Intel fully leverage his vast network and position Intel to capture the next wave of industry innovation and opportunity.”
+
+Tan’s dealmaking comes as the administration of President Donald Trump agreed to make an $8.9 billion investment for what would be the largest ownership stake in the chipmaker, designating it as strategic to the U.S. and effectively making its citizens shareholders.
+
+Some chip-industry analysts have said in research notes that they welcomed Tan’s industry relationships. “He has a wide view across the ecosystem,” said Bernstein analyst Stacy Rasgon in an interview with Reuters. “And that’s helpful for Intel.”
+
+Tan does not perceive his dealmaking at Intel to be conflicted, said two of the sources, who are familiar with his thinking. Tan believes that his roles at these startups and at Intel make him uniquely able to negotiate transactions that benefit all parties, the people said.
+
+In a statement, an Intel spokesperson disputed that Tan’s dealmaking posed any problem. “The company has an unwavering commitment to the highest standards of corporate governance, integrity, and accountability,” the spokesperson said. Tan’s “extensive relationships across the global semiconductor ecosystem are invaluable as Intel positions itself to capitalize on a rapidly evolving industry landscape.”
+
+The Securities and Exchange Commission would not require Intel to disclose related-party transactions that could involve Tan until the spring of 2026, a year after its last disclosure, which took place the week after his start date.
+
+U.S. regulations require such disclosures when transactions personally benefiting corporate officers exceed $120,000, though experts have said smaller dollar amounts can be material to investors if the information would inform a decision to sell or purchase stock.
+
+DEALS TO REVIVE INTEL’S AI STRATEGY
+
+Tan believed Intel needed to buy Rivos because earlier in-house efforts to enter the AI chip market had failed, one of the sources said. In the statement, the Intel spokesperson said Tan was “advancing its AI strategy” and “revitalizing its engineering-centric, customer-first culture.”
+
+Rivos was one of the major targets for Intel where Tan had interests on both sides of the deal. Tan also pitched Intel’s board on buying the troubled AI computing startup SambaNova, where Tan served as executive chairman, the first three sources said.
+
+The rationale - debated inside Intel - was that SambaNova also could provide more tech and talent to build AI chips, the sources said.
+
+SambaNova declined to comment on any talks between the startup and Intel. “While we’re always exploring strategic options, our focus remains on accelerating the roadmap, delivering products to market, and supporting our customers,” a spokesperson said.
+
+Intel also declined to comment on the SambaNova talks.
+
+Tan’s portfolio has drawn scrutiny before. In April, Reuters documented how Tan’s investment firms had stakes in more than 600 Chinese companies, some with military ties, drawing a rebuke by Trump that the U.S. chip manufacturer’s CEO was ""highly CONFLICTED.”
+
+According to a White House official, Tan subsequently cleared up Trump’s concerns in an Oval Office meeting, which paved the way for collaboration on U.S. national and economic security. In September, Trump publicly celebrated Intel’s rising share price following Tan’s Nvidia deal.
+
+Intel’s share price has roughly doubled since Tan’s appointment, outpacing the percentage gains of the S&P 500 and chip leader Nvidia in that time. 
+
+TAKING CONTROL OF INTEL CAPITAL
+
+Soon after his appointment as CEO, Tan took direct control of Intel’s investment arm, Intel Capital, reversing a plan to spin it off. Instead, he reorganized the company so that Intel Capital would report to him, according to two of the sources, for reasons Intel has not disclosed. Its investment committee would be composed solely of Tan and one of his direct reports, finance chief Zinsner, said three people familiar with the change.
+
+Since then, Intel Capital has invested in several companies in which Tan has a stake through his investment vehicles or venture capital firms, which include A&E Investment LLC, Celesta Capital and Walden International, three of the sources said. Some Intel staff have felt an obligation to explore such deals to win Tan’s support, two of them said.
+
+One such investment was in proteanTecs, which announced a late-stage, Series D funding round in September. Intel Capital upped its existing stake in the startup, helping increase the value of Tan’s holdings through A&E Investment and Celesta Capital, funding data shows.
+
+ProteanTecs declined to comment. A&E Investment, Walden Catalyst and Walden International did not respond to requests for comment. In a statement, Celesta Capital said Tan ""has always acted with integrity and a commitment to doing what is right for all stakeholders.”
+
+Before Tan became CEO, Intel Capital co-invested with him or his investment firms at least 12 times since 2019, funding announcements show.
+
+Intel is not alone in having a venture capital arm. That’s common at large technology companies, including Nvidia, Microsoft, Alphabet and Qualcomm. But unlike those other companies, Intel is unusual in having a CEO who oversees its venture unit while also leading unrelated investment firms, a Reuters review of leadership at those companies shows.
+
+Reuters was unable to determine how much Intel’s recent investments had in total increased Tan’s net worth, estimated to be well over $500 million.
+
+Two corporate governance experts consulted by Reuters said Tan’s dealmaking raises red flags due to the conflicts inherent in forging deals with his own portfolio companies.
+
+One of them also said that Intel could benefit from Tan’s connections. “You don't want to preclude making good investments because your CEO is well connected,” said Daniel Taylor, a professor at the Wharton School specializing in corporate disclosures and insider trading.
+
+TAN TOUTS HIS BOOK 
+
+ The Intel CEO has consistently highlighted his portfolio in public appearances. In one of his first presentations as the Intel chief in March, he talked up his 251 chip-related investments, an online video from the occasion shows. 
+
+At an October chip conference in Phoenix, Tan gave a speech representing Intel that featured slides touting still more holdings, including in proteanTecs and SambaNova.
+
+Intel’s code of conduct encourages executives to disclose potential conflicts to the company’s board and top legal and compliance officers for resolution. “We avoid situations that interfere or appear to interfere with our ability to act in the best interests of Intel,” the code of conduct states. It adds that staff must mind conflicts arising from “an ownership interest in an Intel supplier, customer, or competitor” and from “outside employment that interferes with your obligations to Intel.”
+
+The two corporate governance experts said Tan should have dropped his portfolio investments, placed them in a blind trust or set up a special committee of the board to remove potential conflicts with his investment portfolio. Some lawyers have said special committees are not always necessary, and some scholars argue outside board roles apprise executives of strategic information.
+
+Intel declined to say if Tan had taken any such measure.
+
+The Intel board’s independent Audit Committee “actively monitors, reviews, and approves, as appropriate, any related-party transactions in strict accordance with Intel’s rigorous Related-Party Transactions Policy,” the company spokesperson said.
+
+The policy has exceptions. Transactions in which an Intel executive owns less than 10 per cent of a company that is party to a deal, whose value does not exceed $1 million or 2 per cent of that company’s revenue, are deemed to be “pre-cleared,” the policy states. It was not clear how many investments by Intel, if any, fell under this policy, which pre-dated Tan’s leadership. 
+
+INTEL EXPLORES BID FOR A STRUGGLING STARTUP
+
+In 2018, SambaNova was a startup with lofty ambitions to build an AI computing system that could rival Nvidia’s AI hardware and software ecosystem. Tan’s venture firm Walden International co-led SambaNova’s $56 million Series A funding round that year, which secured Tan’s position on its board. 
+
+Over the years, SambaNova hoovered up money from investors: more from Tan’s venture firm and, around 2021, a big check from SoftBank, where Tan served as a board director until 2022. The $676 million Series D round led by SoftBank valued SambaNova at around $5 billion and gave Tan’s holdings a healthy increase on paper.
+
+SoftBank declined to answer if Tan had a role in persuading it to invest in SambaNova. 
+
+But the startup’s ambitious vision wasn’t panning out, three people familiar with the matter said. Customers had more demand for Nvidia’s chips, which are good for a wide variety of uses in AI. That contrasts with the silicon from SambaNova, which is designed for more specific AI applications.
+
+In 2024, Tan stepped in as SambaNova’s new executive chairman in the hopes that he could help grow its business faster. The company was poised to run out of its cash, three people familiar with the matter said. It laid off 77 people in California, or reportedly about 15 per cent of its staff, in April. 
+
+The chip startup tried to drum up interest for another funding round, but found few takers, two sources said. Its revenue meant it would have to fundraise or go up for sale at a lower valuation, said the people and a third source. Bankers pegged its worth at $2 billion to around $3 billion at most, two of the sources said.
+
+Tan asked Intel to look at a deal with the chipmaker over the summer, three sources said. 
+
+In recent weeks, some of SambaNova’s investors provided additional financing to tide over the startup, two people familiar with the insider round said. 
+
+In a statement to Reuters, a SambaNova spokesperson confirmed the startup recently secured additional funding, adding its business “is performing really well.”
+
+Deal talks with SambaNova are ongoing, two of the sources said. Intel and SambaNova have signed a non-binding term sheet, one of them said."
+,"https://img.etimg.com/thumb/width-1200,height-900,imgsize-1838938,resizemode-75,msid-125896151/tech/technology/amazon-pledges-35-billion-for-india-by-2030-with-a-quick-push.jpg",-0.038,en,We’re not late to qcomm: Amazon's Amit Agarwal,https://economictimes.indiatimes.com/tech/technology/amazon-pledges-35-billion-for-india-by-2030-with-a-quick-push/articleshow/125896151.cms,in,386922632,"Amazon will step up investments in India to $35 billion by 2030, an increase of about $20 billion from a previous commitment, as it ramps up its 10-minute delivery service and doubles down on other businesses, said Amit Agarwal, its senior vice-president for emerging markets.The company has invested $40 billion in India in the 15 years to 2024, he said. This includes both the foreign direct investment (FDI) that Amazon would bring into India, as well as redeployment of cash generated by the company from its local operations across ecommerce and cloud services.Agarwal told ET that the Jeff Bezos-founded ecommerce and tech giant has seen strong traction in cities where its quick commerce service has been launched, taking on Eternal-owned Blinkit, Swiggy's Instamart, and Zepto in an increasingly competitive fight for customer wallet-share in India’s top urban markets. Agarwal has overseen local operations since Amazon’s India entry in 2013.The latest investment pledge follows an announcement two years ago by Amazon CEO Andy Jassy that it would plough in $15 billion by 2030. A large part of that — around $12.7 billion — was towards artificial intelligence (AI) and cloud infrastructure through Amazon Web Services (AWS).Agarwal said that the company would deploy the $35 billion across all its businesses, including ecommerce, AWS, Prime Video, content, and financial services. This will also include both FDI and reinvestment of local cash flows. “Our ecommerce operations are generating strong cash flows, which allow us to self-fund our investments. That’s one of the reasons why you haven’t heard us announce explicit (investments in ecommerce). We want to invest $35 billion overall, and since our ecommerce business is performing well, it produces the cash we need to reinvest. When we invest in AWS, FDI is required, but with ecommerce the business itself generates the funds,” he said.By 2030, Amazon aims to support 3.8 million jobs in India and invest $75 billion in total. ""We are the largest foreign investor here"", Agarwal told ET.“Between 2010 and 2024, we have invested $40 billion in the country... Based on our progress on the pledges and the investments, we are the largest foreign investor in India, the largest export enabler, and one of the largest job creators.” Amazon’s investment plans in AI and local cloud infrastructure follows a series of such announcements by other US tech giants. On Tuesday, Amazon’s fellow Seattle-headquartered tech major Microsoft said it plans to invest $17.5 billion in India over the next four years (2026-2029) to drive its AI efforts. Microsoft chief Satya Nadella, who met Prime Minister Narendra Modi on Tuesday, said this was the company’s largest investment ever in Asia, which will help build the infrastructure, skills, and sovereign capabilities needed for India’s AI future. Tapping Prime-dense clustersAgarwal, who has seen Amazon fight local rivals like Flipkart in the cash-guzzling online retail market for more than a decade, said the company’s quick commerce expansion plan was anchored to the user base of Prime, its subscription-based loyalty programme.“Our expansion isn’t tied to a fixed city count,” he said. “It’s centred on Prime-dense clusters. We want to cover the largest percentage of Prime members with the service.” Agarwal was given the additional responsibility of heading markets outside India in March 2022 (is this germane?). “What’s interesting is that whenever we launch a micro-fulfilment centre (or dark store), within 90 days we see Prime members in that area switch over to us,” Agarwal said. “They start shopping three times more frequently than before. We’re doing extremely well in pincodes where we’ve launched,” said Agarwal, when asked if Amazon was lagging behind in the quick commerce market.According to BofA Research, Blinkit, the leader in quick commerce, has over 50% market share, with the remaining divided among Zepto, Instamart, Tata Digital-backed BigBasket, Flipkart Minutes, and Amazon Now. Walmart-owned Flipkart — Amazon’s biggest ecommerce rival in India over the years — is also in the 10-minute delivery space and is on track to have 800 dark stores by the end of this year.The company’s capital commitment underscores how Amazon is accelerating its quick commerce push amid mounting pressure from incumbents Swiggy and Zepto, which are hunting for funding in the public markets as they continue burning cash.Amazon, which currently has 300 dark stores on its network, is adding two daily in Bengaluru, Delhi-NCR, and Mumbai.Even as the sector continues to bleed, Agarwal said Amazon has an edge. “One big advantage Amazon has is that we already have a supply chain,” he said. “We are already delivering 100,000 items in a few hours; opening micro-fulfilment centres is just forward deploying 10,000 of those. We don’t have to build the whole supply chain and we have the technology.”“The two largest cost elements, customer acquisition and supply chain, are actually not relevant for us, reducing our overall cost structure,’’ he added.Reining in costsThe core ecommerce business has scaled well and continues to see steady investment, Agarwal said.“Over the past year alone, we’ve launched five new offerings — Amazon Now, Amazon Bazaar, expanded our healthcare service to include diagnostics and video consultations, completed the acquisition of MX Player, which is scaling strongly, and acquired Axio, which will be integrated with Amazon Pay to offer credit to customers.”Amazon’s investment announcement coincides with the listing of value ecommerce player Meesho, which went public on the back of strong investor interest. The SoftBank-backed company’s stock listed 45% higher than its IPO price. Amazon Bazaar, which was launched earlier this year, competes with Meesho for the low ASP (average selling price) consumer.“We have seen very good traction for Bazaar. The seller base has grown four times during the year, and in just the last three months, our customer base has grown four times. We’re seeing exponential growth in this segment,” he said.Over the previous fiscal year, Amazon’s India units reined in costs to bring down losses. All the four major business units — marketplace entity Amazon Seller Services, logistics arm Amazon Transport Services, Amazon Wholesale, and its fintech unit Amazon Pay — reported a significant narrowing of losses in FY25, primarily due to a reduction in advertising and employee expenses.For Amazon Seller Services, revenue from operations rose 19% from the year before to Rs 30,139 crore in FY25, against 14% growth in FY24. While the growth rate has improved from 3% in FY23, it is much lower than in the pandemic years, when the business expanded 49% in FY21 and 32% in FY22.AI and jobsEarlier this year, Amazon joined a list of large tech companies announcing big job cuts amid an AI-driven reset. The company announced 14,000 layoffs globally — around 1,000 employees in India were impacted, ET had reported.Agarwal said that Amazon was pushing all its employees to use AI to improve productivity, but at the same time it is reducing organisational layers, which has caused its payroll to shrink.“Andy Jassy has said publicly that we want to be the biggest startup… and that matters even more in an AI-driven world where the rate of change is accelerating,” he said. “To operate that way, we need fewer layers. The workforce reductions are primarily about removing those layers, and we’ll continue to do that because we want to stay lean and move like a startup. At the same time, we’ll keep hiring where we need to, because there’s a lot more innovation to deliver.”Exports pushAgarwal also said that Amazon has raised its exports target by four times to $80 billion by 2030, having enabled $20 billion since launching in 2015 its programme that allows sellers to export via the etailer.He said that the company was confident of achieving this goal despite headwinds from US-India trade relations and the tariffs imposed by US President Donald Trump on Indian imports.""When we look at exports, our global selling programme allows SMBs to sell across 200 countries. So, the great thing about our offering is, in some sense, that it's tariff proof. While there might be temporary issues sellers have to manage, we have seen tremendous momentum,” Agarwal explained. “The first billion dollars in exports took us three years, the second billion took two years, and the trend has continued. From the run rate we’re seeing and the extrapolations we’ve made, we feel confident we can reach $80 billion in exports by 2030 despite some headwinds,” he added.The biggest markets for exporters via Amazon are the US, the UK, Canada, the UAE, and Germany.",2025-12-11 00:31:00,['Pranav Mukul'],,,"We’re not late to qcomm: Amazon's Amit Agarwal
+Amazon will step up investments in India to $35 billion by 2030, an increase of about $20 billion from a previous commitment, as it ramps up its 10-minute delivery service and doubles down on other businesses, said Amit Agarwal, its senior vice-president for emerging markets.The company has invested $40 billion in India in the 15 years to 2024, he said. This includes both the foreign direct investment (FDI) that Amazon would bring into India, as well as redeployment of cash generated by the company from its local operations across ecommerce and cloud services.Agarwal told ET that the Jeff Bezos-founded ecommerce and tech giant has seen strong traction in cities where its quick commerce service has been launched, taking on Eternal-owned Blinkit, Swiggy's Instamart, and Zepto in an increasingly competitive fight for customer wallet-share in India’s top urban markets. Agarwal has overseen local operations since Amazon’s India entry in 2013.The latest investment pledge follows an announcement two years ago by Amazon CEO Andy Jassy that it would plough in $15 billion by 2030. A large part of that — around $12.7 billion — was towards artificial intelligence (AI) and cloud infrastructure through Amazon Web Services (AWS).Agarwal said that the company would deploy the $35 billion across all its businesses, including ecommerce, AWS, Prime Video, content, and financial services. This will also include both FDI and reinvestment of local cash flows. “Our ecommerce operations are generating strong cash flows, which allow us to self-fund our investments. That’s one of the reasons why you haven’t heard us announce explicit (investments in ecommerce). We want to invest $35 billion overall, and since our ecommerce business is performing well, it produces the cash we need to reinvest. When we invest in AWS, FDI is required, but with ecommerce the business itself generates the funds,” he said.By 2030, Amazon aims to support 3.8 million jobs in India and invest $75 billion in total. ""We are the largest foreign investor here"", Agarwal told ET.“Between 2010 and 2024, we have invested $40 billion in the country... Based on our progress on the pledges and the investments, we are the largest foreign investor in India, the largest export enabler, and one of the largest job creators.” Amazon’s investment plans in AI and local cloud infrastructure follows a series of such announcements by other US tech giants. On Tuesday, Amazon’s fellow Seattle-headquartered tech major Microsoft said it plans to invest $17.5 billion in India over the next four years (2026-2029) to drive its AI efforts. Microsoft chief Satya Nadella, who met Prime Minister Narendra Modi on Tuesday, said this was the company’s largest investment ever in Asia, which will help build the infrastructure, skills, and sovereign capabilities needed for India’s AI future. Tapping Prime-dense clustersAgarwal, who has seen Amazon fight local rivals like Flipkart in the cash-guzzling online retail market for more than a decade, said the company’s quick commerce expansion plan was anchored to the user base of Prime, its subscription-based loyalty programme.“Our expansion isn’t tied to a fixed city count,” he said. “It’s centred on Prime-dense clusters. We want to cover the largest percentage of Prime members with the service.” Agarwal was given the additional responsibility of heading markets outside India in March 2022 (is this germane?). “What’s interesting is that whenever we launch a micro-fulfilment centre (or dark store), within 90 days we see Prime members in that area switch over to us,” Agarwal said. “They start shopping three times more frequently than before. We’re doing extremely well in pincodes where we’ve launched,” said Agarwal, when asked if Amazon was lagging behind in the quick commerce market.According to BofA Research, Blinkit, the leader in quick commerce, has over 50% market share, with the remaining divided among Zepto, Instamart, Tata Digital-backed BigBasket, Flipkart Minutes, and Amazon Now. Walmart-owned Flipkart — Amazon’s biggest ecommerce rival in India over the years — is also in the 10-minute delivery space and is on track to have 800 dark stores by the end of this year.The company’s capital commitment underscores how Amazon is accelerating its quick commerce push amid mounting pressure from incumbents Swiggy and Zepto, which are hunting for funding in the public markets as they continue burning cash.Amazon, which currently has 300 dark stores on its network, is adding two daily in Bengaluru, Delhi-NCR, and Mumbai.Even as the sector continues to bleed, Agarwal said Amazon has an edge. “One big advantage Amazon has is that we already have a supply chain,” he said. “We are already delivering 100,000 items in a few hours; opening micro-fulfilment centres is just forward deploying 10,000 of those. We don’t have to build the whole supply chain and we have the technology.”“The two largest cost elements, customer acquisition and supply chain, are actually not relevant for us, reducing our overall cost structure,’’ he added.Reining in costsThe core ecommerce business has scaled well and continues to see steady investment, Agarwal said.“Over the past year alone, we’ve launched five new offerings — Amazon Now, Amazon Bazaar, expanded our healthcare service to include diagnostics and video consultations, completed the acquisition of MX Player, which is scaling strongly, and acquired Axio, which will be integrated with Amazon Pay to offer credit to customers.”Amazon’s investment announcement coincides with the listing of value ecommerce player Meesho, which went public on the back of strong investor interest. The SoftBank-backed company’s stock listed 45% higher than its IPO price. Amazon Bazaar, which was launched earlier this year, competes with Meesho for the low ASP (average selling price) consumer.“We have seen very good traction for Bazaar. The seller base has grown four times during the year, and in just the last three months, our customer base has grown four times. We’re seeing exponential growth in this segment,” he said.Over the previous fiscal year, Amazon’s India units reined in costs to bring down losses. All the four major business units — marketplace entity Amazon Seller Services, logistics arm Amazon Transport Services, Amazon Wholesale, and its fintech unit Amazon Pay — reported a significant narrowing of losses in FY25, primarily due to a reduction in advertising and employee expenses.For Amazon Seller Services, revenue from operations rose 19% from the year before to Rs 30,139 crore in FY25, against 14% growth in FY24. While the growth rate has improved from 3% in FY23, it is much lower than in the pandemic years, when the business expanded 49% in FY21 and 32% in FY22.AI and jobsEarlier this year, Amazon joined a list of large tech companies announcing big job cuts amid an AI-driven reset. The company announced 14,000 layoffs globally — around 1,000 employees in India were impacted, ET had reported.Agarwal said that Amazon was pushing all its employees to use AI to improve productivity, but at the same time it is reducing organisational layers, which has caused its payroll to shrink.“Andy Jassy has said publicly that we want to be the biggest startup… and that matters even more in an AI-driven world where the rate of change is accelerating,” he said. “To operate that way, we need fewer layers. The workforce reductions are primarily about removing those layers, and we’ll continue to do that because we want to stay lean and move like a startup. At the same time, we’ll keep hiring where we need to, because there’s a lot more innovation to deliver.”Exports pushAgarwal also said that Amazon has raised its exports target by four times to $80 billion by 2030, having enabled $20 billion since launching in 2015 its programme that allows sellers to export via the etailer.He said that the company was confident of achieving this goal despite headwinds from US-India trade relations and the tariffs imposed by US President Donald Trump on Indian imports.""When we look at exports, our global selling programme allows SMBs to sell across 200 countries. So, the great thing about our offering is, in some sense, that it's tariff proof. While there might be temporary issues sellers have to manage, we have seen tremendous momentum,” Agarwal explained. “The first billion dollars in exports took us three years, the second billion took two years, and the trend has continued. From the run rate we’re seeing and the extrapolations we’ve made, we feel confident we can reach $80 billion in exports by 2030 despite some headwinds,” he added.The biggest markets for exporters via Amazon are the US, the UK, Canada, the UAE, and Germany."
+,https://static.businessworld.in/1665765058_qjTZ8l_digital_rupee_vs_crypto.PNG,-0.355,en,"Taxed, Unregulated & Still Growing: Inside India’s Crypto-Blockchain Contradiction",https://www.businessworld.in/article/taxed-unregulated-still-growing-inside-india-s-crypto-blockchain-contradiction-583204,in,386915002,"India entered 2025 facing a complex Web3 paradox. It is the world's largest adopter of blockchain technology for the third consecutive year and home to more than 1,250 Web3 startups that have collectively raised USD 3.5 billion to date (as per Web3 VC firm Hashed Emergent's analysis). Yet the country's most ambitious founders remain constrained by unclear regulations, an unforgiving tax regime and a policy vacuum that has left the industry suspended between promise and frustration. 
+
+India has not just survived the ""crypto winter"" and bear market; it has strengthened its grip, ranking first in blockchain adoption for the third consecutive year and cementing its status as the world’s second-largest developer market.
+
+The ""Comeback Year"" And Tax Wall
+
+""This year has really been a comeback year for India’s crypto ecosystem,"" says Ashish Singhal, Co-founder at CoinSwitch, one of the country's largest exchanges. The resurgence is palpable in the trading pits as well. In 2025, spot volumes in blue-chip crypto tokens rose 114 per cent, accompanied by a 27 per cent increase in new traders.
+
+However, this growth comes with an asterisk. While global volumes have recovered about 80 per cent following positive regulatory signals from the US, India's recovery lags at 50-60 per cent. The culprit remains the 1 per cent TDS (Tax Deducted at Source) and a flat 30 per cent tax on gains, a policy that Singhal says initially wiped out 90 per cent of India's trading volume.
+
+""The TDS structure disincentivised trading,"" Singhal explains. ""Long-term holders were still fine... but overall, India lost about 90 per cent of its trading volume.""
+
+Despite this, the demographics of the market are shifting fundamentally. Young investors (aged 18-35) now comprise nearly 75 per cent of active users and drive half of all trading volumes. Also, women traders are growing nearly twice as fast as men across all city tiers, indicating a rapidly diversifying investor base, Hashed Emergent's data suggests.
+
+The Great Pivot
+
+While traders battle tax headwinds, the builders are busy re-architecting the internet. Sharanya Sahai, Vice President of Investment at Hashed Emergent, pointed out this critical dichotomy during his keynote at the recent India Blockchain Week 2025 event. ""The government adoption has been robust... where they’ve been actively advocating for the underlying tech, but not the cryptocurrency as an asset class.""
+
+This support for ""tech-not-crypto"" is visible in the public sector. Almost seven states and 22 government departments have completed 332 million verifications using blockchain under the national framework. Use cases range from dispute resolution and police complaints to tamper-proof election campaign testing.
+
+Private enterprise is following suit, but with a twist regarding the topic of ""stablecoins."" While the US markets thrive on stablecoins like USDC, Indian innovators are treading carefully around the Reserve Bank of India’s (RBI) capital controls.
+
+""Stablecoins work well in markets like the US, where capital flows freely. In India, the risk is that they could skirt regulatory boundaries,"" says Singhal.
+
+Meanwhile, Polygon Labs is taking a novel semantic and structural approach to navigate this. While the industry seems to be abuzz with the news of Polygon developing a stablecoin, it's not quite that. Aishwary Gupta, Global Head of Payments and RWA at Polygon Labs, insists, ""It is not a stablecoin... It is a deposit token.""
+
+Unlike a traditional stablecoin, this ""deposit token"" acts as a 1:1 backed representation used strictly for transaction layers, designed to work within the banking system rather than outside it. ""Banks still are the settlement layer,"" Gupta clarifies. ""We are not... giving money from our own pockets.""
+
+The Jio Effect: A Billion Users On-Chain
+
+Perhaps the most important development for India, with regards to blockchain, was entry of Reliance Jio into the space this year. Partnering with the Aptos blockchain, the telecom giant is moving far beyond experimental pilots to what Shankar Jayaraman, SVP at Jio, called ""impact at operation scale,"" during a fireside chat at the India Blockchain Week 2025 in Bengaluru.
+
+""Jio's scale is really kind of unmatched in the industry,"" added Avery Ching, CEO at Aptos, whose blockchain is powering these initiatives.
+
+Jio is looking at three massive, disruptive verticals:
+
+AdTech Disruption: Jio is building a Demand Side Platform (DSP) running completely on-chain. The goal is to deliver ""100 per cent secure and transparent numbers to every ecosystem partner,"" solving the industry-wide plague of opaque metrics. Ching describes this as a potential disruption of the entire ad marketplace: ""We're talking about scale of potentially a billion people seeing ads... that would disrupt entire ad marketplace.""IoT & The Battery Passport: In the energy sector, Jio is utilising blockchain for a ""battery passport"" system. This tracks batteries across the solar and EV ecosystems as they move between partners, ensuring usage is captured accurately and preventing fraud.The Age of AI Agents: Looking toward 2026, Jio is betting on ""autonomous AI agents"" that can handle payments and security for users. Jayaraman said that for an AI agent to be truly autonomous, it needs access to user data (payments, behaviour) without compromising privacy. ""That's where blockchain plays a huge role... ensuring that the data is completely protected,"" he says.
+
+""We need to see Web3 and blockchain in the hands of every consumer,"" Jayaraman asserts. ""It should be outside the realm of trading."" 
+
+Jio is interestingly also working on and testing its 'JioCoin' cryptocurrency on Polygon chain.
+
+The Talent Engine
+
+Fueling these ambitions is a massive, youthful workforce. India now accounts for 15 per cent of the global blockchain developer share, rapidly closing the gap with the US. The demographic skew is stark: 70 per cent of these developers belong to Gen Z and 47 per cent are still students.
+
+""The hustle in India is really strong, honestly,"" observes Aptos' Ching. ""In the US... crypto is still like an area that is... more exciting maybe from an investment and speculation standpoint... I see the opposite in India, where the development is actually the thing that takes off here.""
+
+However, the ecosystem faces a ""mentorship gap."" Sahai notes, ""The biggest challenge facing Indian developers, today's lack of mentorship... we haven't been able to get good quality developers from established enterprises to learn blockchain languages.""
+
+Investing In The Future
+
+Despite the domestic funding caution, global investors remain bullish. Hashed Emergent says that global Web3 investors show ""strong conviction"" in India.
+
+Polygon Labs has evolved its strategy from broad ecosystem grants to targeted, high-conviction bets. ""We have gone very selective,"" says Gupta. Since 2018, Polygon has invested between USD 25-30 million directly from its Labs into the ecosystem. A key recent investment involves a startup founded by ex-NPCI team members, which Polygon backed with ~USD 500,000 to scale India's CBDC infrastructure and make it interoperable with public blockchains.
+
+CoinSwitch is also playing the long game through its venture arm, Web3 Discovery Fund. The USD 10 million fund has already invested in over 25 companies, with check sizes now reaching up to USD 2.5 million. ""We go beyond capital by connecting founders to leading global investors such as a16z, Coinbase and Tiger Global,"" Singhal adds.
+
+2026 And Beyond
+
+The sentiment in India's Web3 industry continues to be one of cautious optimism. The industry is no longer asking for permission to exist; it is asking for regulatory clarity to lead.
+
+""We're not there yet. Clear regulations, hopefully in the next two years, will be the real game changer for India,"" says Singhal.
+
+For the builders, the focus remains on solving real problems rather than chasing crypto action. As Jayaraman put it, referring to Jio's massive pipeline of blockchain applications: ""That is just the tip of the iceberg. There is lot more.""",2025-12-10 00:00:00,['Bw Reporters'],,,"Taxed, Unregulated & Still Growing: Inside India’s Crypto-Blockchain Contradiction
+India entered 2025 facing a complex Web3 paradox. It is the world's largest adopter of blockchain technology for the third consecutive year and home to more than 1,250 Web3 startups that have collectively raised USD 3.5 billion to date (as per Web3 VC firm Hashed Emergent's analysis). Yet the country's most ambitious founders remain constrained by unclear regulations, an unforgiving tax regime and a policy vacuum that has left the industry suspended between promise and frustration. 
+
+India has not just survived the ""crypto winter"" and bear market; it has strengthened its grip, ranking first in blockchain adoption for the third consecutive year and cementing its status as the world’s second-largest developer market.
+
+The ""Comeback Year"" And Tax Wall
+
+""This year has really been a comeback year for India’s crypto ecosystem,"" says Ashish Singhal, Co-founder at CoinSwitch, one of the country's largest exchanges. The resurgence is palpable in the trading pits as well. In 2025, spot volumes in blue-chip crypto tokens rose 114 per cent, accompanied by a 27 per cent increase in new traders.
+
+However, this growth comes with an asterisk. While global volumes have recovered about 80 per cent following positive regulatory signals from the US, India's recovery lags at 50-60 per cent. The culprit remains the 1 per cent TDS (Tax Deducted at Source) and a flat 30 per cent tax on gains, a policy that Singhal says initially wiped out 90 per cent of India's trading volume.
+
+""The TDS structure disincentivised trading,"" Singhal explains. ""Long-term holders were still fine... but overall, India lost about 90 per cent of its trading volume.""
+
+Despite this, the demographics of the market are shifting fundamentally. Young investors (aged 18-35) now comprise nearly 75 per cent of active users and drive half of all trading volumes. Also, women traders are growing nearly twice as fast as men across all city tiers, indicating a rapidly diversifying investor base, Hashed Emergent's data suggests.
+
+The Great Pivot
+
+While traders battle tax headwinds, the builders are busy re-architecting the internet. Sharanya Sahai, Vice President of Investment at Hashed Emergent, pointed out this critical dichotomy during his keynote at the recent India Blockchain Week 2025 event. ""The government adoption has been robust... where they’ve been actively advocating for the underlying tech, but not the cryptocurrency as an asset class.""
+
+This support for ""tech-not-crypto"" is visible in the public sector. Almost seven states and 22 government departments have completed 332 million verifications using blockchain under the national framework. Use cases range from dispute resolution and police complaints to tamper-proof election campaign testing.
+
+Private enterprise is following suit, but with a twist regarding the topic of ""stablecoins."" While the US markets thrive on stablecoins like USDC, Indian innovators are treading carefully around the Reserve Bank of India’s (RBI) capital controls.
+
+""Stablecoins work well in markets like the US, where capital flows freely. In India, the risk is that they could skirt regulatory boundaries,"" says Singhal.
+
+Meanwhile, Polygon Labs is taking a novel semantic and structural approach to navigate this. While the industry seems to be abuzz with the news of Polygon developing a stablecoin, it's not quite that. Aishwary Gupta, Global Head of Payments and RWA at Polygon Labs, insists, ""It is not a stablecoin... It is a deposit token.""
+
+Unlike a traditional stablecoin, this ""deposit token"" acts as a 1:1 backed representation used strictly for transaction layers, designed to work within the banking system rather than outside it. ""Banks still are the settlement layer,"" Gupta clarifies. ""We are not... giving money from our own pockets.""
+
+The Jio Effect: A Billion Users On-Chain
+
+Perhaps the most important development for India, with regards to blockchain, was entry of Reliance Jio into the space this year. Partnering with the Aptos blockchain, the telecom giant is moving far beyond experimental pilots to what Shankar Jayaraman, SVP at Jio, called ""impact at operation scale,"" during a fireside chat at the India Blockchain Week 2025 in Bengaluru.
+
+""Jio's scale is really kind of unmatched in the industry,"" added Avery Ching, CEO at Aptos, whose blockchain is powering these initiatives.
+
+Jio is looking at three massive, disruptive verticals:
+
+AdTech Disruption: Jio is building a Demand Side Platform (DSP) running completely on-chain. The goal is to deliver ""100 per cent secure and transparent numbers to every ecosystem partner,"" solving the industry-wide plague of opaque metrics. Ching describes this as a potential disruption of the entire ad marketplace: ""We're talking about scale of potentially a billion people seeing ads... that would disrupt entire ad marketplace.""IoT & The Battery Passport: In the energy sector, Jio is utilising blockchain for a ""battery passport"" system. This tracks batteries across the solar and EV ecosystems as they move between partners, ensuring usage is captured accurately and preventing fraud.The Age of AI Agents: Looking toward 2026, Jio is betting on ""autonomous AI agents"" that can handle payments and security for users. Jayaraman said that for an AI agent to be truly autonomous, it needs access to user data (payments, behaviour) without compromising privacy. ""That's where blockchain plays a huge role... ensuring that the data is completely protected,"" he says.
+
+""We need to see Web3 and blockchain in the hands of every consumer,"" Jayaraman asserts. ""It should be outside the realm of trading."" 
+
+Jio is interestingly also working on and testing its 'JioCoin' cryptocurrency on Polygon chain.
+
+The Talent Engine
+
+Fueling these ambitions is a massive, youthful workforce. India now accounts for 15 per cent of the global blockchain developer share, rapidly closing the gap with the US. The demographic skew is stark: 70 per cent of these developers belong to Gen Z and 47 per cent are still students.
+
+""The hustle in India is really strong, honestly,"" observes Aptos' Ching. ""In the US... crypto is still like an area that is... more exciting maybe from an investment and speculation standpoint... I see the opposite in India, where the development is actually the thing that takes off here.""
+
+However, the ecosystem faces a ""mentorship gap."" Sahai notes, ""The biggest challenge facing Indian developers, today's lack of mentorship... we haven't been able to get good quality developers from established enterprises to learn blockchain languages.""
+
+Investing In The Future
+
+Despite the domestic funding caution, global investors remain bullish. Hashed Emergent says that global Web3 investors show ""strong conviction"" in India.
+
+Polygon Labs has evolved its strategy from broad ecosystem grants to targeted, high-conviction bets. ""We have gone very selective,"" says Gupta. Since 2018, Polygon has invested between USD 25-30 million directly from its Labs into the ecosystem. A key recent investment involves a startup founded by ex-NPCI team members, which Polygon backed with ~USD 500,000 to scale India's CBDC infrastructure and make it interoperable with public blockchains.
+
+CoinSwitch is also playing the long game through its venture arm, Web3 Discovery Fund. The USD 10 million fund has already invested in over 25 companies, with check sizes now reaching up to USD 2.5 million. ""We go beyond capital by connecting founders to leading global investors such as a16z, Coinbase and Tiger Global,"" Singhal adds.
+
+2026 And Beyond
+
+The sentiment in India's Web3 industry continues to be one of cautious optimism. The industry is no longer asking for permission to exist; it is asking for regulatory clarity to lead.
+
+""We're not there yet. Clear regulations, hopefully in the next two years, will be the real game changer for India,"" says Singhal.
+
+For the builders, the focus remains on solving real problems rather than chasing crypto action. As Jayaraman put it, referring to Jio's massive pipeline of blockchain applications: ""That is just the tip of the iceberg. There is lot more."""
+Amazon is doubling down on its long-term plans in India. This and more in today's ETtech Top 5.,"https://img.etimg.com/thumb/msid-125891725,width-1070,height-580,imgsize-46424,overlay-ettech/editionshow.jpg",0.005,en,Amazon's $35 billion India top-up; Meesho investors hit jackpot,https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/amazons-35-billion-india-top-up-meesho-investors-hit-jackpot/articleshow/125891725.cms,in,386853884,"Explore other editions
+
+Amazon's $35 billion India top-up; Meesho investors hit jackpot
+
+Want this newsletter delivered to your inbox?I agree to receive newsletters and marketing communications via e-mail
+
+Thank you for subscribing to Daily Top 5We'll soon meet in your inbox.
+
+Amazon is doubling down on its long-term plans in India. This and more in today's ETtech Top 5.Also in the letter:■ Uber enters B2B logistics■ IAN closes $100M fund■ Aussie teens go offlineAmazon ups India investment to over $35 billion by 2030 Amazon on Wednesday said it was lifting its investment commitment in the country to $35 billion by the end of the decade, as global technology giants jostle to lock in a long-term foothold in one of the world's fastest-growing digital markets.The expanded commitment builds on the $15-billion pledge made by CEO Andy Jassy in 2023. The Seattle-based ecommerce giant has invested $40 billion between 2010 and 2024.Driving the news: The fresh funds will be channelled into artificial intelligence capabilities, cloud infrastructure, and a deeper logistics network, reinforcing India’s growing role as a core operating geography rather than a peripheral growth market.The ground game: Amazon's renewed push comes amid heightened competitive pressure. Rival Flipkart is gearing up for a long-anticipated public listing, while Meesho made a strong debut on Dalal Street earlier today. Beyond ecommerce, Amazon is also sharpening its play in quick commerce, taking on Swiggy Instamart, Eternal-owned Blinkit, and Zepto. Over the past year, the company has also tightened spending in India, paring losses even as it expands into newer formats. Also Read: Q-comm set to grow in '26; whether it’ll make money remains unclear: Amazon India chiefOne-upping: The announcement lands amid a flurry of big-ticket technology investments into India. Just a day earlier, Microsoft unveiled a $17.5-billion expansion plan for the country, its largest bet in Asia, spanning data centres, AI compute, and sovereign cloud capabilities across Hyderabad, Pune and Gujarat. That followed commitments by AWS, Google, and Nvidia, as well as partnerships linked to the companies, aimed at building AI and data centre capacity at scale.Bigger picture: The investment wave has been accompanied by a steady procession of global tech leaders to New Delhi. Prime Minister Narendra Modi met CEOs, including Microsoft's Satya Nadella, Intel's Lip-Bu Tan, and Cognizant's Ravi Kumar S, in recent days, signalling India’s emergence as a multi-decade destination for capital in cloud, AI, and semiconductors.Meesho listing unlocks billions in wealth for founders, early investors Elevation, Peak XV Meesho's blockbuster listing has delivered a sharp payoff for founders and early backers, with the stock debuting at nearly a 46% premium and unlocking massive gains for long-term shareholders.Investor returns: Founders (Vidit Aatrey & Sanjeev Barnwal): together hold 16.2% worth over Rs 12,190 crore. Each offloaded about 1.6 crore shares in the offer for sale, taking home roughly Rs 178 crore apiece.Elevation Capital: its 11.9% stake is valued at nearly Rs 8,950 crore, translating into a staggering 56x return.Peak XV Partners: holds 11.4% worth Rs 8,514 crore, implying a 38x paper gain.Y Combinator: its stake is now valued at about Rs 761 crore. Holding firm: Shareholders who skipped the OFS are sitting on sizeable notional gains as well. Prosus, which owns 51.9 crore shares, now has a holding valued at over Rs 8,371 crore.Meesho closed its first day of trade at Rs 170.20 on the BSE, giving it a market capitalisation of Rs 76,813.49 crore.Also Read: Meesho IPO: There’s no slowdown, India among the least penetrated ecommerce markets globally: CEO Vidit AatreyHigh on gains: The debut adds to a busy year for venture-backed listings. Startups such as Urban Company, Lenskart, Groww, Ather Energy, Bluestone, and Pine Labs have already unlocked more than Rs 15,000 crore in liquidity for early and late investors in 2025, marking one of the strongest exit cycles since the 2021-22 boom. Also Read: On listing day, Vidit Aatrey says Meesho’s journey to Dalal Street has been surrealTune in: Meesho CEO Vidit Aatrey in a conversation with ETtech's Samidha Sharma and Pranav Mukul on The Morning Brief podcast here.Also Read: Meesho expanded ecomm beyond India’s top 5%, say executives, backersUber enters B2B logistics with Uber Direct on ONDC, onboards Zepto, KPN Farm fresh Prabhjeet Singh, President of Uber India and South AsiaUber has entered India’s B2B delivery space with its hyperlocal logistics service Uber Direct, integrated with ONDCWhat's new: Uber Direct is now live in Bengaluru as a plug-and-play solution for businessesThe platform will start with grocery deliveries for Zepto and KPN Farm FreshTalks are on with quick service restaurant chains like KFC, Burger King, Taco Bell, and Rebel Foods to start food deliveries in the coming weeks.How it works: Unlike Uber Courier, the new service won't cater to direct customers. Businesses can place orders on a seller's app, and Uber will handle last-mile fulfillment.Competitors: Uber is taking aim at established B2B logistics players like Shadowfax, Delhivery, and Loadshare.Shadowfax does quick deliveries for Nykaa and Myntra.Delhivery has D2C brands, retailers, etc., among its clientele.Loadshare does deliveries for Amazon Now, which is planning to scale operations.Also Read: Ecommerce's in-house delivery turn flips third-party logistics biz scriptIAN Group makes final close of $100 million Alpha Fund Padmaja Ruparel, cofounder, IAN GroupThe IAN Group has closed its second venture capital fund at $100 million, aimed at backing early-stage, tech-led startups tackling major national and industry needs.Sector focus: The fund has already invested in 10–12 startups across AI, space, semiconductors, climate tech and healthcare, including several founded by first-time entrepreneurs in tier-2 and tier-3 cities.Investors: Backers include government bodies, Sidbi’s Fund of Funds for Startups, the Self-Reliant India Fund, ACE Fund, Nabard, the Odisha Startup Growth Fund and HDFC Life.Skydo secures Rs 90 crore in fresh funding (L-R) Movin Jain and Srivatsan Sridhar, founders, SkydoCross-border payments startup Skydo has secured $10 million (around Rs 90 crore) in new funding, led by US-based Susquehanna Investment Group (Susquehanna Asia VC).Funding details:SIG contributed over $7 million as the lead investor.Skydo's total funding has now reached about $20 million.Existing backers Elevation Capital and Eximus Ventures also joined the round.Quick-fashion startup Knot's funding round (L-R) Rachit Bansal and Archit Nanda, founders, KnotMumbai-based quick-fashion delivery startup Knot has raised $5 million in funding, in a round led by 12 Flags, with participation from existing investors Kae Capital and Boundless Ventures.Also Read: Plant-based nutrition brand Earthful raises $2.8 million from Fireside Ventures, othersAustralia begins enforcing world-first teen social media ban Anika Wells, Australian Minister for CommunicationsThe line has finally been drawn. Australia has become the first country to formally block children under 16 from accessing major social media platforms. This move has split opinion but reshaped the global debate on online safety. What's happening? From midnight, at least 10 major platforms – including TikTok, YouTube, Instagram and Facebook – are required to prevent under-16s from using their services or face fines of up to A$49.5 million. The law has drawn sharp criticism from tech companies and free-speech advocates, even as parents and child-safety groups have rallied behind it. What this means: The crackdown hits deep in a country where social media use among young people was near-ubiquitous. The change comes as almost 86% of Australians aged 8 to 15 used social media before the ban. Here’s what different sections say:Nearly 86% of Australians aged 8 to 15 were active on social platforms before the ban.Some teenagers fear isolation, saying the rules could cut them off from their peers and communities.Platforms are already grappling with slowing growth, with studies pointing to flat user numbers and declining engagement.Tech firms argue that under-16 users generate limited ad revenue, but are critical to building long-term user pipelines.Meta warns of riskier alternatives, as children may shift to less regulated apps — and platforms like Lemon8 and Yope have already surged in downloads.Also Read: Elon Musk's X says barring under-16s in Australia 'not our choice'
+
+ Explore other editions
+
+Want this newsletter delivered to your inbox?I agree to receive newsletters and marketing communications via e-mailThank you for subscribing to Daily Top 5We'll soon meet in your inbox.",2025-12-10 13:35:53,,,business,"Amazon's $35 billion India top-up; Meesho investors hit jackpot
+Explore other editions
+
+Amazon's $35 billion India top-up; Meesho investors hit jackpot
+
+Want this newsletter delivered to your inbox?I agree to receive newsletters and marketing communications via e-mail
+
+Thank you for subscribing to Daily Top 5We'll soon meet in your inbox.
+
+Amazon is doubling down on its long-term plans in India. This and more in today's ETtech Top 5.Also in the letter:■ Uber enters B2B logistics■ IAN closes $100M fund■ Aussie teens go offlineAmazon ups India investment to over $35 billion by 2030 Amazon on Wednesday said it was lifting its investment commitment in the country to $35 billion by the end of the decade, as global technology giants jostle to lock in a long-term foothold in one of the world's fastest-growing digital markets.The expanded commitment builds on the $15-billion pledge made by CEO Andy Jassy in 2023. The Seattle-based ecommerce giant has invested $40 billion between 2010 and 2024.Driving the news: The fresh funds will be channelled into artificial intelligence capabilities, cloud infrastructure, and a deeper logistics network, reinforcing India’s growing role as a core operating geography rather than a peripheral growth market.The ground game: Amazon's renewed push comes amid heightened competitive pressure. Rival Flipkart is gearing up for a long-anticipated public listing, while Meesho made a strong debut on Dalal Street earlier today. Beyond ecommerce, Amazon is also sharpening its play in quick commerce, taking on Swiggy Instamart, Eternal-owned Blinkit, and Zepto. Over the past year, the company has also tightened spending in India, paring losses even as it expands into newer formats. Also Read: Q-comm set to grow in '26; whether it’ll make money remains unclear: Amazon India chiefOne-upping: The announcement lands amid a flurry of big-ticket technology investments into India. Just a day earlier, Microsoft unveiled a $17.5-billion expansion plan for the country, its largest bet in Asia, spanning data centres, AI compute, and sovereign cloud capabilities across Hyderabad, Pune and Gujarat. That followed commitments by AWS, Google, and Nvidia, as well as partnerships linked to the companies, aimed at building AI and data centre capacity at scale.Bigger picture: The investment wave has been accompanied by a steady procession of global tech leaders to New Delhi. Prime Minister Narendra Modi met CEOs, including Microsoft's Satya Nadella, Intel's Lip-Bu Tan, and Cognizant's Ravi Kumar S, in recent days, signalling India’s emergence as a multi-decade destination for capital in cloud, AI, and semiconductors.Meesho listing unlocks billions in wealth for founders, early investors Elevation, Peak XV Meesho's blockbuster listing has delivered a sharp payoff for founders and early backers, with the stock debuting at nearly a 46% premium and unlocking massive gains for long-term shareholders.Investor returns: Founders (Vidit Aatrey & Sanjeev Barnwal): together hold 16.2% worth over Rs 12,190 crore. Each offloaded about 1.6 crore shares in the offer for sale, taking home roughly Rs 178 crore apiece.Elevation Capital: its 11.9% stake is valued at nearly Rs 8,950 crore, translating into a staggering 56x return.Peak XV Partners: holds 11.4% worth Rs 8,514 crore, implying a 38x paper gain.Y Combinator: its stake is now valued at about Rs 761 crore. Holding firm: Shareholders who skipped the OFS are sitting on sizeable notional gains as well. Prosus, which owns 51.9 crore shares, now has a holding valued at over Rs 8,371 crore.Meesho closed its first day of trade at Rs 170.20 on the BSE, giving it a market capitalisation of Rs 76,813.49 crore.Also Read: Meesho IPO: There’s no slowdown, India among the least penetrated ecommerce markets globally: CEO Vidit AatreyHigh on gains: The debut adds to a busy year for venture-backed listings. Startups such as Urban Company, Lenskart, Groww, Ather Energy, Bluestone, and Pine Labs have already unlocked more than Rs 15,000 crore in liquidity for early and late investors in 2025, marking one of the strongest exit cycles since the 2021-22 boom. Also Read: On listing day, Vidit Aatrey says Meesho’s journey to Dalal Street has been surrealTune in: Meesho CEO Vidit Aatrey in a conversation with ETtech's Samidha Sharma and Pranav Mukul on The Morning Brief podcast here.Also Read: Meesho expanded ecomm beyond India’s top 5%, say executives, backersUber enters B2B logistics with Uber Direct on ONDC, onboards Zepto, KPN Farm fresh Prabhjeet Singh, President of Uber India and South AsiaUber has entered India’s B2B delivery space with its hyperlocal logistics service Uber Direct, integrated with ONDCWhat's new: Uber Direct is now live in Bengaluru as a plug-and-play solution for businessesThe platform will start with grocery deliveries for Zepto and KPN Farm FreshTalks are on with quick service restaurant chains like KFC, Burger King, Taco Bell, and Rebel Foods to start food deliveries in the coming weeks.How it works: Unlike Uber Courier, the new service won't cater to direct customers. Businesses can place orders on a seller's app, and Uber will handle last-mile fulfillment.Competitors: Uber is taking aim at established B2B logistics players like Shadowfax, Delhivery, and Loadshare.Shadowfax does quick deliveries for Nykaa and Myntra.Delhivery has D2C brands, retailers, etc., among its clientele.Loadshare does deliveries for Amazon Now, which is planning to scale operations.Also Read: Ecommerce's in-house delivery turn flips third-party logistics biz scriptIAN Group makes final close of $100 million Alpha Fund Padmaja Ruparel, cofounder, IAN GroupThe IAN Group has closed its second venture capital fund at $100 million, aimed at backing early-stage, tech-led startups tackling major national and industry needs.Sector focus: The fund has already invested in 10–12 startups across AI, space, semiconductors, climate tech and healthcare, including several founded by first-time entrepreneurs in tier-2 and tier-3 cities.Investors: Backers include government bodies, Sidbi’s Fund of Funds for Startups, the Self-Reliant India Fund, ACE Fund, Nabard, the Odisha Startup Growth Fund and HDFC Life.Skydo secures Rs 90 crore in fresh funding (L-R) Movin Jain and Srivatsan Sridhar, founders, SkydoCross-border payments startup Skydo has secured $10 million (around Rs 90 crore) in new funding, led by US-based Susquehanna Investment Group (Susquehanna Asia VC).Funding details:SIG contributed over $7 million as the lead investor.Skydo's total funding has now reached about $20 million.Existing backers Elevation Capital and Eximus Ventures also joined the round.Quick-fashion startup Knot's funding round (L-R) Rachit Bansal and Archit Nanda, founders, KnotMumbai-based quick-fashion delivery startup Knot has raised $5 million in funding, in a round led by 12 Flags, with participation from existing investors Kae Capital and Boundless Ventures.Also Read: Plant-based nutrition brand Earthful raises $2.8 million from Fireside Ventures, othersAustralia begins enforcing world-first teen social media ban Anika Wells, Australian Minister for CommunicationsThe line has finally been drawn. Australia has become the first country to formally block children under 16 from accessing major social media platforms. This move has split opinion but reshaped the global debate on online safety. What's happening? From midnight, at least 10 major platforms – including TikTok, YouTube, Instagram and Facebook – are required to prevent under-16s from using their services or face fines of up to A$49.5 million. The law has drawn sharp criticism from tech companies and free-speech advocates, even as parents and child-safety groups have rallied behind it. What this means: The crackdown hits deep in a country where social media use among young people was near-ubiquitous. The change comes as almost 86% of Australians aged 8 to 15 used social media before the ban. Here’s what different sections say:Nearly 86% of Australians aged 8 to 15 were active on social platforms before the ban.Some teenagers fear isolation, saying the rules could cut them off from their peers and communities.Platforms are already grappling with slowing growth, with studies pointing to flat user numbers and declining engagement.Tech firms argue that under-16 users generate limited ad revenue, but are critical to building long-term user pipelines.Meta warns of riskier alternatives, as children may shift to less regulated apps — and platforms like Lemon8 and Yope have already surged in downloads.Also Read: Elon Musk's X says barring under-16s in Australia 'not our choice'
+
+ Explore other editions
+
+Want this newsletter delivered to your inbox?I agree to receive newsletters and marketing communications via e-mailThank you for subscribing to Daily Top 5We'll soon meet in your inbox."
+Entrepreneurs Don&#39;t Have Time to Read  and Now With This App You Don&#39;t Have To,"https://www.entrepreneur.com/wp-content/uploads/sites/2/2025/12/1764763410-HeadwayPremium2.jpg?resize=1024,682",0.055,en,Entrepreneurs Don&#39;t Have Time to Read  and Now With This App You Don&#39;t Have To,https://www.entrepreneur.com/living/entrepreneurs-dont-have-time-to-read-and-now-with-this/500386,ie,386845704,"Skip to main content
+
+Build Your Business
+
+Start Your Business
+
+Market Research and Validation
+
+Identify Your Target Audience
+
+Competitive Analysis
+
+Pricing Strategy
+
+Validate Your Business Idea
+
+Interview Customers
+
+Planning and Strategy
+
+Write Your Business Plan
+
+Choose Your Business Model
+
+Decide Your Business Structure
+
+Register Your Business
+
+Bootstrapping
+
+Loans and Grants
+
+Angel and VC Funding
+
+Crowdfunding
+
+Launch Your Business
+
+Branding Basics
+
+Name Your Company
+
+Logos and Design
+
+Website Basics
+
+Product Packaging
+
+How to Build a Brand from Scratch
+
+Build Your Team
+
+Open a Brick and Mortar
+
+Online Presence
+
+Run Your Business
+
+Monitor Your Finances
+
+Use Data Analytics to Make Decisions
+
+Understand Business Law
+
+Improve Operations and Logistics
+
+Human Resources
+
+Customer Service
+
+Manage Your Time and Productivity
+
+Grow Your Business
+
+Boost Your Sales
+
+Develop Your Pitch
+
+Build Your Sales Team
+
+Manage the Sales Process
+
+Master Negotiation
+
+Close the Deal
+
+Market Your Business
+
+Refine Your Message
+
+Create a Marketing Plan
+
+Get Your First Customers
+
+Social Media Marketing
+
+Email Marketing
+
+SEO for Entrepreneurs
+
+Marketing Launch Checklist
+
+Leadership and Culture
+
+Business Success Stories
+
+Exit and Transition
+
+Sell Your Business
+
+Plan Your Exit
+
+Business Valuation Basics
+
+Start a Side Hustle
+
+Side Hustles
+
+50 Side Hustle Ideas
+
+How to Start a Side Hustle
+
+Side Hustle Success Stories
+
+Free Weekly Help to Your Inbox
+
+Passive Income
+
+Your Complete Guide to Passive Income
+
+Passive Income 101 for Beginners
+
+Passive Income Ideas
+
+Gig Economy
+
+Buy a Franchise
+
+Find the Right Franchise For You
+
+Entrepreneur’s Franchise 500 Rankings
+
+Top Franchises under $25k
+
+Top Franchises under $50k
+
+Top Franchises under $100k
+
+Top Franchises under $150k
+
+Franchise Success Stories
+
+How to Thrive as a Franchisee
+
+Explore Multi-Unit Ownership
+
+Get 1:1 Personalized Help
+
+Keep Up With the Franchise Industry
+
+Business News
+
+Submit Article
+
+United States
+
+Asia Pacific
+
+Middle East
+
+United Kingdom
+
+ Search 
+
+ Search 
+
+Submit Article
+
+Build Your Business
+
+Start Your Business
+
+Market Research and Validation
+
+Identify Your Target Audience
+
+Competitive Analysis
+
+Pricing Strategy
+
+Validate Your Business Idea
+
+Interview Customers
+
+Planning and Strategy
+
+Write Your Business Plan
+
+Choose Your Business Model
+
+Decide Your Business Structure
+
+Register Your Business
+
+Bootstrapping
+
+Loans and Grants
+
+Angel and VC Funding
+
+Crowdfunding
+
+Launch Your Business
+
+Branding Basics
+
+Name Your Company
+
+Logos and Design
+
+Website Basics
+
+Product Packaging
+
+How to Build a Brand from Scratch
+
+Build Your Team
+
+Open a Brick and Mortar
+
+Online Presence
+
+Run Your Business
+
+Monitor Your Finances
+
+Use Data Analytics to Make Decisions
+
+Understand Business Law
+
+Improve Operations and Logistics
+
+Human Resources
+
+Customer Service
+
+Manage Your Time and Productivity
+
+Grow Your Business
+
+Boost Your Sales
+
+Develop Your Pitch
+
+Build Your Sales Team
+
+Manage the Sales Process
+
+Master Negotiation
+
+Close the Deal
+
+Market Your Business
+
+Refine Your Message
+
+Create a Marketing Plan
+
+Get Your First Customers
+
+Social Media Marketing
+
+Email Marketing
+
+SEO for Entrepreneurs
+
+Marketing Launch Checklist
+
+Leadership and Culture
+
+Business Success Stories
+
+Exit and Transition
+
+Sell Your Business
+
+Plan Your Exit
+
+Business Valuation Basics
+
+Start a Side Hustle
+
+Side Hustles
+
+50 Side Hustle Ideas
+
+How to Start a Side Hustle
+
+Side Hustle Success Stories
+
+Free Weekly Help to Your Inbox
+
+Passive Income
+
+Your Complete Guide to Passive Income
+
+Passive Income 101 for Beginners
+
+Passive Income Ideas
+
+Gig Economy
+
+Buy a Franchise
+
+Find the Right Franchise For You
+
+Entrepreneur’s Franchise 500 Rankings
+
+Top Franchises under $25k
+
+Top Franchises under $50k
+
+Top Franchises under $100k
+
+Top Franchises under $150k
+
+Franchise Success Stories
+
+How to Thrive as a Franchisee
+
+Explore Multi-Unit Ownership
+
+Get 1:1 Personalized Help
+
+Keep Up With the Franchise Industry
+
+Business News
+
+Submit Article
+
+Submit Article
+
+ 
+
+Build Your Business
+
+Start Your Business
+
+Market Research and Validation
+
+Identify Your Target Audience
+
+Competitive Analysis
+
+Pricing Strategy
+
+Validate Your Business Idea
+
+Interview Customers
+
+Planning and Strategy
+
+Write Your Business Plan
+
+Choose Your Business Model
+
+Decide Your Business Structure
+
+Register Your Business
+
+Bootstrapping
+
+Loans and Grants
+
+Angel and VC Funding
+
+Crowdfunding
+
+Launch Your Business
+
+Branding Basics
+
+Name Your Company
+
+Logos and Design
+
+Website Basics
+
+Product Packaging
+
+How to Build a Brand from Scratch
+
+Build Your Team
+
+Open a Brick and Mortar
+
+Online Presence
+
+Run Your Business
+
+Monitor Your Finances
+
+Use Data Analytics to Make Decisions
+
+Understand Business Law
+
+Improve Operations and Logistics
+
+Human Resources
+
+Customer Service
+
+Manage Your Time and Productivity
+
+Grow Your Business
+
+Boost Your Sales
+
+Develop Your Pitch
+
+Build Your Sales Team
+
+Manage the Sales Process
+
+Master Negotiation
+
+Close the Deal
+
+Market Your Business
+
+Refine Your Message
+
+Create a Marketing Plan
+
+Get Your First Customers
+
+Social Media Marketing
+
+Email Marketing
+
+SEO for Entrepreneurs
+
+Marketing Launch Checklist
+
+Leadership and Culture
+
+Business Success Stories
+
+Exit and Transition
+
+Sell Your Business
+
+Plan Your Exit
+
+Business Valuation Basics
+
+Start a Side Hustle
+
+Side Hustles
+
+50 Side Hustle Ideas
+
+How to Start a Side Hustle
+
+Side Hustle Success Stories
+
+Free Weekly Help to Your Inbox
+
+Passive Income
+
+Your Complete Guide to Passive Income
+
+Passive Income 101 for Beginners
+
+Passive Income Ideas
+
+Gig Economy
+
+Buy a Franchise
+
+Find the Right Franchise For You
+
+Entrepreneur’s Franchise 500 Rankings
+
+Top Franchises under $25k
+
+Top Franchises under $50k
+
+Top Franchises under $100k
+
+Top Franchises under $150k
+
+Franchise Success Stories
+
+How to Thrive as a Franchisee
+
+Explore Multi-Unit Ownership
+
+Get 1:1 Personalized Help
+
+Keep Up With the Franchise Industry
+
+Business News
+
+ /
+
+ 
+ Entrepreneurs 
+ 
+
+ Entrepreneurs Don’t Have Time to Read — and Now With This App You Don’t Have To 
+
+ 
+
+Unlock key ideas from the world’s best nonfiction books.
+
+ By 
+ 
+ Entrepreneur Store 
+ 
+
+ edited by 
+ Jason Fell 
+
+ Dec 08, 2025 
+
+ Add Entrepreneur
+
+ 
+
+Copied to clipboard
+
+ 
+
+ 
+
+ 
+StackCommerce
+ 
+
+ Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them, Entrepreneur may get a small share of the revenue from the sale from our commerce partners.
+
+It’s common knowledge that entrepreneurs work a lot. Running a business doesn’t leave much free time — and it certainly doesn’t leave time for finishing books. If you want to stay knowledgeable in the world of nonfiction bestsellers with summaries that fit your busy schedule, there’s now an app for that called Headway Premium.
+
+Right now, you can secure a lifetime subscription to Headway Premium for just $39.99 with code SUMMARY20, the best price on the web, through January 31.
+
+Learn new things with just 15 minutes a day
+
+Headway Premium offers 15-minute summaries of the world’s best nonfiction books, easy to digest and adaptable to even the most chaotic schedules. You can choose to listen via a professionally narrated audio summary or read a written one, depending on when you’re fitting it in.
+
+Over 15 million users are already taking advantage of Headway’s wealth of knowledge. There are over 2,000 summaries already available, with a new one added every month. Topics range from business strategies and personal development to health and wellness, and you have the option to work offline if you need to.
+
+Headway Premium’s summaries highlight the key ideas, concepts, and principles from each book, though they don’t replace reading the full text. It’s a great way to stay on top of new topics and discover subjects you’d like to explore further. The app also incorporates gamified learning, tracking your progress, and allowing you to earn achievements and master new skills along the way.
+
+Snag a lifetime subscription to Headway Premium for just $39.99 with code SUMMARY20, the best price on the web, until January 31.
+
+StackSocial prices subject to change.
+
+It’s common knowledge that entrepreneurs work a lot. Running a business doesn’t leave much free time — and it certainly doesn’t leave time for finishing books. If you want to stay knowledgeable in the world of nonfiction bestsellers with summaries that fit your busy schedule, there’s now an app for that called Headway Premium.
+
+Right now, you can secure a lifetime subscription to Headway Premium for just $39.99 with code SUMMARY20, the best price on the web, through January 31.
+
+Learn new things with just 15 minutes a day
+
+Headway Premium offers 15-minute summaries of the world’s best nonfiction books, easy to digest and adaptable to even the most chaotic schedules. You can choose to listen via a professionally narrated audio summary or read a written one, depending on when you’re fitting it in.
+
+ The rest of this article is locked.
+
+ Join Entrepreneur+ today for access.
+
+ 
+ Subscribe Now
+
+ 
+
+ Already have an account? Sign In
+
+ 
+
+ Latest 
+
+ Investors Called This Pitch ‘Nearly Perfect.’ Was It Good Enough to Strike a Deal? 
+
+ 5 hours ago 
+
+ This CEO’s Controversial Interview Tactic Could Be the Secret to Hiring the Right People: ‘Wondering If I’m Insane or Brilliant’ 
+
+ 19 hours ago 
+
+ Make This Counterintuitive Move to Become a More Effective Leader 
+
+ 20 hours ago 
+
+ 
+ Entrepreneur Store 
+ 
+ 
+
+ Entrepreneur Store
+
+ 
+ Entrepreneur Staff
+
+ Your one-stop shop for the latest technology, online courses and productivity tools to help your business and personal growth.
+
+ Related Content 
+
+ Building a Business 
+
+ I Run a Portfolio of High-Growth Companies — This Practice Makes It All Possible 
+
+ Entrepreneurship isn't limited by ambition but by the absence of systems that turn effort into sustainable growth. 
+
+ By David Boice 
+
+ Business Accounting 
+
+ Has This Area of the U.S. Quietly Found the Formula to Smarter Startup Growth? 
+
+ As investors turn to capital efficiency and sustainable scaling, there are lessons to be learned from the Southeast — where founders have long built successful companies by doing more with less. 
+
+ By Andrew Albert 
+
+ Thought Leaders 
+
+ Make This Counterintuitive Move to Become a More Effective Leader 
+
+ In business cultures obsessed with speed and decisiveness, restraint can be one of the smartest forms of strategy. 
+
+ By Michel Koopman 
+
+ Building a Business 
+
+ The $119 Million Reason You Should Never Give Up on a Cold Lead 
+
+ I emailed 126,148 leads that were over five years old — 61 responded, and seven converted that same week. I'd say that's worth being ""annoying"" to a few. 
+
+ By Joy Gendusa 
+
+ Building a Business 
+
+ These Dads Figured Out What Kids Want and Built a Business Bringing In Over $100 Million This Year: ‘We Grew Very Fast’ 
+
+ Darren Litt and Adam Gillman saw a major gap in the children's health and wellness space. 
+
+ By Amanda Breen 
+
+ Buying a Franchise 
+
+ How to Turn Your Franchise Conference Into a Year-Round Growth Engine 
+
+ How to turn a three-day event into twelve months of storytelling, culture-building and brand momentum. 
+
+ By Trevor Rappleye 
+
+Sign up for our free daily newsletter
+
+We'll be in your inbox every morning Monday-Saturday with all the day’s top business news, inspiring stories, best advice and exclusive reporting from Entrepreneur.
+
+I understand that the data I am submitting will be used to provide me with the above-described products and/or services and communications in connection therewith.
+
+Read our privacy policy for more information.
+
+Newsletters
+
+White Papers
+
+Join the Leadership Network
+
+Get Unlimited Access on Entrepreneur.com
+
+Manage Magazine Subscription
+
+Advertise with Entrepreneur
+
+Entrepreneur Authorities
+
+Entrepreneur Books Group
+
+Entrepreneur Press
+
+Ask an Expert
+
+Daily Deals
+
+Terms of Use
+
+Privacy Policy
+
+Cookies Policy
+
+Accessibility Statement
+
+Contact Support
+
+Cookie Management
+
+ Copyright ©
+ 2025 Entrepreneur Media, LLC All rights reserved. Entrepreneur® and its
+ related marks are registered trademarks of Entrepreneur Media, LLC. 
+
+ We are a proud American independent media company that has never taken a dime of USAID taxpayer money 🇺🇸
+
+United States
+
+Asia Pacific
+
+Middle East
+
+United Kingdom",2025-12-09 11:31:05,['Entrepreneur Store'],,,"Entrepreneurs Don&#39;t Have Time to Read  and Now With This App You Don&#39;t Have To
+Skip to main content
+
+Build Your Business
+
+Start Your Business
+
+Market Research and Validation
+
+Identify Your Target Audience
+
+Competitive Analysis
+
+Pricing Strategy
+
+Validate Your Business Idea
+
+Interview Customers
+
+Planning and Strategy
+
+Write Your Business Plan
+
+Choose Your Business Model
+
+Decide Your Business Structure
+
+Register Your Business
+
+Bootstrapping
+
+Loans and Grants
+
+Angel and VC Funding
+
+Crowdfunding
+
+Launch Your Business
+
+Branding Basics
+
+Name Your Company
+
+Logos and Design
+
+Website Basics
+
+Product Packaging
+
+How to Build a Brand from Scratch
+
+Build Your Team
+
+Open a Brick and Mortar
+
+Online Presence
+
+Run Your Business
+
+Monitor Your Finances
+
+Use Data Analytics to Make Decisions
+
+Understand Business Law
+
+Improve Operations and Logistics
+
+Human Resources
+
+Customer Service
+
+Manage Your Time and Productivity
+
+Grow Your Business
+
+Boost Your Sales
+
+Develop Your Pitch
+
+Build Your Sales Team
+
+Manage the Sales Process
+
+Master Negotiation
+
+Close the Deal
+
+Market Your Business
+
+Refine Your Message
+
+Create a Marketing Plan
+
+Get Your First Customers
+
+Social Media Marketing
+
+Email Marketing
+
+SEO for Entrepreneurs
+
+Marketing Launch Checklist
+
+Leadership and Culture
+
+Business Success Stories
+
+Exit and Transition
+
+Sell Your Business
+
+Plan Your Exit
+
+Business Valuation Basics
+
+Start a Side Hustle
+
+Side Hustles
+
+50 Side Hustle Ideas
+
+How to Start a Side Hustle
+
+Side Hustle Success Stories
+
+Free Weekly Help to Your Inbox
+
+Passive Income
+
+Your Complete Guide to Passive Income
+
+Passive Income 101 for Beginners
+
+Passive Income Ideas
+
+Gig Economy
+
+Buy a Franchise
+
+Find the Right Franchise For You
+
+Entrepreneur’s Franchise 500 Rankings
+
+Top Franchises under $25k
+
+Top Franchises under $50k
+
+Top Franchises under $100k
+
+Top Franchises under $150k
+
+Franchise Success Stories
+
+How to Thrive as a Franchisee
+
+Explore Multi-Unit Ownership
+
+Get 1:1 Personalized Help
+
+Keep Up With the Franchise Industry
+
+Business News
+
+Submit Article
+
+United States
+
+Asia Pacific
+
+Middle East
+
+United Kingdom
+
+ Search 
+
+ Search 
+
+Submit Article
+
+Build Your Business
+
+Start Your Business
+
+Market Research and Validation
+
+Identify Your Target Audience
+
+Competitive Analysis
+
+Pricing Strategy
+
+Validate Your Business Idea
+
+Interview Customers
+
+Planning and Strategy
+
+Write Your Business Plan
+
+Choose Your Business Model
+
+Decide Your Business Structure
+
+Register Your Business
+
+Bootstrapping
+
+Loans and Grants
+
+Angel and VC Funding
+
+Crowdfunding
+
+Launch Your Business
+
+Branding Basics
+
+Name Your Company
+
+Logos and Design
+
+Website Basics
+
+Product Packaging
+
+How to Build a Brand from Scratch
+
+Build Your Team
+
+Open a Brick and Mortar
+
+Online Presence
+
+Run Your Business
+
+Monitor Your Finances
+
+Use Data Analytics to Make Decisions
+
+Understand Business Law
+
+Improve Operations and Logistics
+
+Human Resources
+
+Customer Service
+
+Manage Your Time and Productivity
+
+Grow Your Business
+
+Boost Your Sales
+
+Develop Your Pitch
+
+Build Your Sales Team
+
+Manage the Sales Process
+
+Master Negotiation
+
+Close the Deal
+
+Market Your Business
+
+Refine Your Message
+
+Create a Marketing Plan
+
+Get Your First Customers
+
+Social Media Marketing
+
+Email Marketing
+
+SEO for Entrepreneurs
+
+Marketing Launch Checklist
+
+Leadership and Culture
+
+Business Success Stories
+
+Exit and Transition
+
+Sell Your Business
+
+Plan Your Exit
+
+Business Valuation Basics
+
+Start a Side Hustle
+
+Side Hustles
+
+50 Side Hustle Ideas
+
+How to Start a Side Hustle
+
+Side Hustle Success Stories
+
+Free Weekly Help to Your Inbox
+
+Passive Income
+
+Your Complete Guide to Passive Income
+
+Passive Income 101 for Beginners
+
+Passive Income Ideas
+
+Gig Economy
+
+Buy a Franchise
+
+Find the Right Franchise For You
+
+Entrepreneur’s Franchise 500 Rankings
+
+Top Franchises under $25k
+
+Top Franchises under $50k
+
+Top Franchises under $100k
+
+Top Franchises under $150k
+
+Franchise Success Stories
+
+How to Thrive as a Franchisee
+
+Explore Multi-Unit Ownership
+
+Get 1:1 Personalized Help
+
+Keep Up With the Franchise Industry
+
+Business News
+
+Submit Article
+
+Submit Article
+
+ 
+
+Build Your Business
+
+Start Your Business
+
+Market Research and Validation
+
+Identify Your Target Audience
+
+Competitive Analysis
+
+Pricing Strategy
+
+Validate Your Business Idea
+
+Interview Customers
+
+Planning and Strategy
+
+Write Your Business Plan
+
+Choose Your Business Model
+
+Decide Your Business Structure
+
+Register Your Business
+
+Bootstrapping
+
+Loans and Grants
+
+Angel and VC Funding
+
+Crowdfunding
+
+Launch Your Business
+
+Branding Basics
+
+Name Your Company
+
+Logos and Design
+
+Website Basics
+
+Product Packaging
+
+How to Build a Brand from Scratch
+
+Build Your Team
+
+Open a Brick and Mortar
+
+Online Presence
+
+Run Your Business
+
+Monitor Your Finances
+
+Use Data Analytics to Make Decisions
+
+Understand Business Law
+
+Improve Operations and Logistics
+
+Human Resources
+
+Customer Service
+
+Manage Your Time and Productivity
+
+Grow Your Business
+
+Boost Your Sales
+
+Develop Your Pitch
+
+Build Your Sales Team
+
+Manage the Sales Process
+
+Master Negotiation
+
+Close the Deal
+
+Market Your Business
+
+Refine Your Message
+
+Create a Marketing Plan
+
+Get Your First Customers
+
+Social Media Marketing
+
+Email Marketing
+
+SEO for Entrepreneurs
+
+Marketing Launch Checklist
+
+Leadership and Culture
+
+Business Success Stories
+
+Exit and Transition
+
+Sell Your Business
+
+Plan Your Exit
+
+Business Valuation Basics
+
+Start a Side Hustle
+
+Side Hustles
+
+50 Side Hustle Ideas
+
+How to Start a Side Hustle
+
+Side Hustle Success Stories
+
+Free Weekly Help to Your Inbox
+
+Passive Income
+
+Your Complete Guide to Passive Income
+
+Passive Income 101 for Beginners
+
+Passive Income Ideas
+
+Gig Economy
+
+Buy a Franchise
+
+Find the Right Franchise For You
+
+Entrepreneur’s Franchise 500 Rankings
+
+Top Franchises under $25k
+
+Top Franchises under $50k
+
+Top Franchises under $100k
+
+Top Franchises under $150k
+
+Franchise Success Stories
+
+How to Thrive as a Franchisee
+
+Explore Multi-Unit Ownership
+
+Get 1:1 Personalized Help
+
+Keep Up With the Franchise Industry
+
+Business News
+
+ /
+
+ 
+ Entrepreneurs 
+ 
+
+ Entrepreneurs Don’t Have Time to Read — and Now With This App You Don’t Have To 
+
+ 
+
+Unlock key ideas from the world’s best nonfiction books.
+
+ By 
+ 
+ Entrepreneur Store 
+ 
+
+ edited by 
+ Jason Fell 
+
+ Dec 08, 2025 
+
+ Add Entrepreneur
+
+ 
+
+Copied to clipboard
+
+ 
+
+ 
+
+ 
+StackCommerce
+ 
+
+ Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them, Entrepreneur may get a small share of the revenue from the sale from our commerce partners.
+
+It’s common knowledge that entrepreneurs work a lot. Running a business doesn’t leave much free time — and it certainly doesn’t leave time for finishing books. If you want to stay knowledgeable in the world of nonfiction bestsellers with summaries that fit your busy schedule, there’s now an app for that called Headway Premium.
+
+Right now, you can secure a lifetime subscription to Headway Premium for just $39.99 with code SUMMARY20, the best price on the web, through January 31.
+
+Learn new things with just 15 minutes a day
+
+Headway Premium offers 15-minute summaries of the world’s best nonfiction books, easy to digest and adaptable to even the most chaotic schedules. You can choose to listen via a professionally narrated audio summary or read a written one, depending on when you’re fitting it in.
+
+Over 15 million users are already taking advantage of Headway’s wealth of knowledge. There are over 2,000 summaries already available, with a new one added every month. Topics range from business strategies and personal development to health and wellness, and you have the option to work offline if you need to.
+
+Headway Premium’s summaries highlight the key ideas, concepts, and principles from each book, though they don’t replace reading the full text. It’s a great way to stay on top of new topics and discover subjects you’d like to explore further. The app also incorporates gamified learning, tracking your progress, and allowing you to earn achievements and master new skills along the way.
+
+Snag a lifetime subscription to Headway Premium for just $39.99 with code SUMMARY20, the best price on the web, until January 31.
+
+StackSocial prices subject to change.
+
+It’s common knowledge that entrepreneurs work a lot. Running a business doesn’t leave much free time — and it certainly doesn’t leave time for finishing books. If you want to stay knowledgeable in the world of nonfiction bestsellers with summaries that fit your busy schedule, there’s now an app for that called Headway Premium.
+
+Right now, you can secure a lifetime subscription to Headway Premium for just $39.99 with code SUMMARY20, the best price on the web, through January 31.
+
+Learn new things with just 15 minutes a day
+
+Headway Premium offers 15-minute summaries of the world’s best nonfiction books, easy to digest and adaptable to even the most chaotic schedules. You can choose to listen via a professionally narrated audio summary or read a written one, depending on when you’re fitting it in.
+
+ The rest of this article is locked.
+
+ Join Entrepreneur+ today for access.
+
+ 
+ Subscribe Now
+
+ 
+
+ Already have an account? Sign In
+
+ 
+
+ Latest 
+
+ Investors Called This Pitch ‘Nearly Perfect.’ Was It Good Enough to Strike a Deal? 
+
+ 5 hours ago 
+
+ This CEO’s Controversial Interview Tactic Could Be the Secret to Hiring the Right People: ‘Wondering If I’m Insane or Brilliant’ 
+
+ 19 hours ago 
+
+ Make This Counterintuitive Move to Become a More Effective Leader 
+
+ 20 hours ago 
+
+ 
+ Entrepreneur Store 
+ 
+ 
+
+ Entrepreneur Store
+
+ 
+ Entrepreneur Staff
+
+ Your one-stop shop for the latest technology, online courses and productivity tools to help your business and personal growth.
+
+ Related Content 
+
+ Building a Business 
+
+ I Run a Portfolio of High-Growth Companies — This Practice Makes It All Possible 
+
+ Entrepreneurship isn't limited by ambition but by the absence of systems that turn effort into sustainable growth. 
+
+ By David Boice 
+
+ Business Accounting 
+
+ Has This Area of the U.S. Quietly Found the Formula to Smarter Startup Growth? 
+
+ As investors turn to capital efficiency and sustainable scaling, there are lessons to be learned from the Southeast — where founders have long built successful companies by doing more with less. 
+
+ By Andrew Albert 
+
+ Thought Leaders 
+
+ Make This Counterintuitive Move to Become a More Effective Leader 
+
+ In business cultures obsessed with speed and decisiveness, restraint can be one of the smartest forms of strategy. 
+
+ By Michel Koopman 
+
+ Building a Business 
+
+ The $119 Million Reason You Should Never Give Up on a Cold Lead 
+
+ I emailed 126,148 leads that were over five years old — 61 responded, and seven converted that same week. I'd say that's worth being ""annoying"" to a few. 
+
+ By Joy Gendusa 
+
+ Building a Business 
+
+ These Dads Figured Out What Kids Want and Built a Business Bringing In Over $100 Million This Year: ‘We Grew Very Fast’ 
+
+ Darren Litt and Adam Gillman saw a major gap in the children's health and wellness space. 
+
+ By Amanda Breen 
+
+ Buying a Franchise 
+
+ How to Turn Your Franchise Conference Into a Year-Round Growth Engine 
+
+ How to turn a three-day event into twelve months of storytelling, culture-building and brand momentum. 
+
+ By Trevor Rappleye 
+
+Sign up for our free daily newsletter
+
+We'll be in your inbox every morning Monday-Saturday with all the day’s top business news, inspiring stories, best advice and exclusive reporting from Entrepreneur.
+
+I understand that the data I am submitting will be used to provide me with the above-described products and/or services and communications in connection therewith.
+
+Read our privacy policy for more information.
+
+Newsletters
+
+White Papers
+
+Join the Leadership Network
+
+Get Unlimited Access on Entrepreneur.com
+
+Manage Magazine Subscription
+
+Advertise with Entrepreneur
+
+Entrepreneur Authorities
+
+Entrepreneur Books Group
+
+Entrepreneur Press
+
+Ask an Expert
+
+Daily Deals
+
+Terms of Use
+
+Privacy Policy
+
+Cookies Policy
+
+Accessibility Statement
+
+Contact Support
+
+Cookie Management
+
+ Copyright ©
+ 2025 Entrepreneur Media, LLC All rights reserved. Entrepreneur® and its
+ related marks are registered trademarks of Entrepreneur Media, LLC. 
+
+ We are a proud American independent media company that has never taken a dime of USAID taxpayer money 🇺🇸
+
+United States
+
+Asia Pacific
+
+Middle East
+
+United Kingdom"
+Only Hours Left to Save Big on this AI-Powered Stock Picker That&#39;s Perfect for Entrepreneurs,"https://www.entrepreneur.com/wp-content/uploads/sites/2/2025/12/1764762459-SterlingStockPicker5.jpg?resize=1024,682",0.055,en,Only Hours Left to Save Big on this AI-Powered Stock Picker That&#39;s Perfect for Entrepreneurs,https://www.entrepreneur.com/money-finance/only-hours-left-to-save-big-on-this-ai-powered-stock-picker/500384,ie,386845702,"Skip to main content
+
+Build Your Business
+
+Start Your Business
+
+Market Research and Validation
+
+Identify Your Target Audience
+
+Competitive Analysis
+
+Pricing Strategy
+
+Validate Your Business Idea
+
+Interview Customers
+
+Planning and Strategy
+
+Write Your Business Plan
+
+Choose Your Business Model
+
+Decide Your Business Structure
+
+Register Your Business
+
+Bootstrapping
+
+Loans and Grants
+
+Angel and VC Funding
+
+Crowdfunding
+
+Launch Your Business
+
+Branding Basics
+
+Name Your Company
+
+Logos and Design
+
+Website Basics
+
+Product Packaging
+
+How to Build a Brand from Scratch
+
+Build Your Team
+
+Open a Brick and Mortar
+
+Online Presence
+
+Run Your Business
+
+Monitor Your Finances
+
+Use Data Analytics to Make Decisions
+
+Understand Business Law
+
+Improve Operations and Logistics
+
+Human Resources
+
+Customer Service
+
+Manage Your Time and Productivity
+
+Grow Your Business
+
+Boost Your Sales
+
+Develop Your Pitch
+
+Build Your Sales Team
+
+Manage the Sales Process
+
+Master Negotiation
+
+Close the Deal
+
+Market Your Business
+
+Refine Your Message
+
+Create a Marketing Plan
+
+Get Your First Customers
+
+Social Media Marketing
+
+Email Marketing
+
+SEO for Entrepreneurs
+
+Marketing Launch Checklist
+
+Leadership and Culture
+
+Business Success Stories
+
+Exit and Transition
+
+Sell Your Business
+
+Plan Your Exit
+
+Business Valuation Basics
+
+Start a Side Hustle
+
+Side Hustles
+
+50 Side Hustle Ideas
+
+How to Start a Side Hustle
+
+Side Hustle Success Stories
+
+Free Weekly Help to Your Inbox
+
+Passive Income
+
+Your Complete Guide to Passive Income
+
+Passive Income 101 for Beginners
+
+Passive Income Ideas
+
+Gig Economy
+
+Buy a Franchise
+
+Find the Right Franchise For You
+
+Entrepreneur’s Franchise 500 Rankings
+
+Top Franchises under $25k
+
+Top Franchises under $50k
+
+Top Franchises under $100k
+
+Top Franchises under $150k
+
+Franchise Success Stories
+
+How to Thrive as a Franchisee
+
+Explore Multi-Unit Ownership
+
+Get 1:1 Personalized Help
+
+Keep Up With the Franchise Industry
+
+Business News
+
+Submit Article
+
+United States
+
+Asia Pacific
+
+Middle East
+
+United Kingdom
+
+ Search 
+
+ Search 
+
+Submit Article
+
+Build Your Business
+
+Start Your Business
+
+Market Research and Validation
+
+Identify Your Target Audience
+
+Competitive Analysis
+
+Pricing Strategy
+
+Validate Your Business Idea
+
+Interview Customers
+
+Planning and Strategy
+
+Write Your Business Plan
+
+Choose Your Business Model
+
+Decide Your Business Structure
+
+Register Your Business
+
+Bootstrapping
+
+Loans and Grants
+
+Angel and VC Funding
+
+Crowdfunding
+
+Launch Your Business
+
+Branding Basics
+
+Name Your Company
+
+Logos and Design
+
+Website Basics
+
+Product Packaging
+
+How to Build a Brand from Scratch
+
+Build Your Team
+
+Open a Brick and Mortar
+
+Online Presence
+
+Run Your Business
+
+Monitor Your Finances
+
+Use Data Analytics to Make Decisions
+
+Understand Business Law
+
+Improve Operations and Logistics
+
+Human Resources
+
+Customer Service
+
+Manage Your Time and Productivity
+
+Grow Your Business
+
+Boost Your Sales
+
+Develop Your Pitch
+
+Build Your Sales Team
+
+Manage the Sales Process
+
+Master Negotiation
+
+Close the Deal
+
+Market Your Business
+
+Refine Your Message
+
+Create a Marketing Plan
+
+Get Your First Customers
+
+Social Media Marketing
+
+Email Marketing
+
+SEO for Entrepreneurs
+
+Marketing Launch Checklist
+
+Leadership and Culture
+
+Business Success Stories
+
+Exit and Transition
+
+Sell Your Business
+
+Plan Your Exit
+
+Business Valuation Basics
+
+Start a Side Hustle
+
+Side Hustles
+
+50 Side Hustle Ideas
+
+How to Start a Side Hustle
+
+Side Hustle Success Stories
+
+Free Weekly Help to Your Inbox
+
+Passive Income
+
+Your Complete Guide to Passive Income
+
+Passive Income 101 for Beginners
+
+Passive Income Ideas
+
+Gig Economy
+
+Buy a Franchise
+
+Find the Right Franchise For You
+
+Entrepreneur’s Franchise 500 Rankings
+
+Top Franchises under $25k
+
+Top Franchises under $50k
+
+Top Franchises under $100k
+
+Top Franchises under $150k
+
+Franchise Success Stories
+
+How to Thrive as a Franchisee
+
+Explore Multi-Unit Ownership
+
+Get 1:1 Personalized Help
+
+Keep Up With the Franchise Industry
+
+Business News
+
+Submit Article
+
+Submit Article
+
+ 
+
+Build Your Business
+
+Start Your Business
+
+Market Research and Validation
+
+Identify Your Target Audience
+
+Competitive Analysis
+
+Pricing Strategy
+
+Validate Your Business Idea
+
+Interview Customers
+
+Planning and Strategy
+
+Write Your Business Plan
+
+Choose Your Business Model
+
+Decide Your Business Structure
+
+Register Your Business
+
+Bootstrapping
+
+Loans and Grants
+
+Angel and VC Funding
+
+Crowdfunding
+
+Launch Your Business
+
+Branding Basics
+
+Name Your Company
+
+Logos and Design
+
+Website Basics
+
+Product Packaging
+
+How to Build a Brand from Scratch
+
+Build Your Team
+
+Open a Brick and Mortar
+
+Online Presence
+
+Run Your Business
+
+Monitor Your Finances
+
+Use Data Analytics to Make Decisions
+
+Understand Business Law
+
+Improve Operations and Logistics
+
+Human Resources
+
+Customer Service
+
+Manage Your Time and Productivity
+
+Grow Your Business
+
+Boost Your Sales
+
+Develop Your Pitch
+
+Build Your Sales Team
+
+Manage the Sales Process
+
+Master Negotiation
+
+Close the Deal
+
+Market Your Business
+
+Refine Your Message
+
+Create a Marketing Plan
+
+Get Your First Customers
+
+Social Media Marketing
+
+Email Marketing
+
+SEO for Entrepreneurs
+
+Marketing Launch Checklist
+
+Leadership and Culture
+
+Business Success Stories
+
+Exit and Transition
+
+Sell Your Business
+
+Plan Your Exit
+
+Business Valuation Basics
+
+Start a Side Hustle
+
+Side Hustles
+
+50 Side Hustle Ideas
+
+How to Start a Side Hustle
+
+Side Hustle Success Stories
+
+Free Weekly Help to Your Inbox
+
+Passive Income
+
+Your Complete Guide to Passive Income
+
+Passive Income 101 for Beginners
+
+Passive Income Ideas
+
+Gig Economy
+
+Buy a Franchise
+
+Find the Right Franchise For You
+
+Entrepreneur’s Franchise 500 Rankings
+
+Top Franchises under $25k
+
+Top Franchises under $50k
+
+Top Franchises under $100k
+
+Top Franchises under $150k
+
+Franchise Success Stories
+
+How to Thrive as a Franchisee
+
+Explore Multi-Unit Ownership
+
+Get 1:1 Personalized Help
+
+Keep Up With the Franchise Industry
+
+Business News
+
+ /
+
+ 
+ Building a Business 
+ 
+
+ 
+ Business Accounting 
+ 
+
+ Only Hours Left to Save Big on this AI-Powered Stock Picker That’s Perfect for Entrepreneurs 
+
+ 
+
+It helps entrepreneurs manage their portfolios and now it’s just $55 for life.
+
+ By 
+ 
+ Entrepreneur Store 
+ 
+
+ edited by 
+ Jason Fell 
+
+ Dec 07, 2025 
+
+ Add Entrepreneur
+
+ 
+
+Copied to clipboard
+
+ 
+
+ 
+
+ Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them, Entrepreneur may get a small share of the revenue from the sale from our commerce partners.
+
+Approximately 62% of U.S. adults own stock, according to Yahoo Finance. If you’re among the minority, there’s now an app that can help entrepreneurs invest and it’s called Sterling Stock Picker. It helps you make confident decisions despite having limited free time for research.
+
+Right now, you can secure a lifetime subscription to Sterling Stock Picker for only $55.19 (reg. $486) with code STOCKS20 through tonight at midnight.
+
+This AI-powered stock picker helps you invest with confidence
+
+If you wish you had more time to research the stock market and choose the right stocks for your portfolio, Sterling Stock Picker can help. This AI-powered, award-winning app helps you make informed decisions on when to buy, sell, or hold stocks.
+
+Sterling Stock Picker has a five-minute questionnaire that helps determine your risk preferences and personal values, which in turn helps it select the best stocks for your portfolio. A North Star Rating System shows information such as the top-performing companies with over 50 percent quarterly revenue growth, so you can invest confidently.
+
+If you prefer a more hands-off approach, Sterling Stock Picker offers that option as well with a Done-for-You Portfolio Builder that creates a diversified portfolio based on your risk tolerance and investment goals. This option takes out all the guessing, so you can get back to work.
+
+This lifetime subscription includes Finley, Sterling Stock Picker’s AI financial coach. Finley will answer questions about your portfolio, individual stocks, or the market in general. You can also connect with fellow investors through the community chat forum.
+
+Act fast to secure a lifetime subscription to Sterling Stock Picker for only $55.19 with code STOCKS20 through tonight at midnight.
+
+StackSocial prices subject to change.
+
+Approximately 62% of U.S. adults own stock, according to Yahoo Finance. If you’re among the minority, there’s now an app that can help entrepreneurs invest and it’s called Sterling Stock Picker. It helps you make confident decisions despite having limited free time for research.
+
+Right now, you can secure a lifetime subscription to Sterling Stock Picker for only $55.19 (reg. $486) with code STOCKS20 through tonight at midnight.
+
+This AI-powered stock picker helps you invest with confidence
+
+If you wish you had more time to research the stock market and choose the right stocks for your portfolio, Sterling Stock Picker can help. This AI-powered, award-winning app helps you make informed decisions on when to buy, sell, or hold stocks.
+
+ The rest of this article is locked.
+
+ Join Entrepreneur+ today for access.
+
+ 
+ Subscribe Now
+
+ 
+
+ Already have an account? Sign In
+
+ 
+
+ Latest 
+
+ Investors Called This Pitch ‘Nearly Perfect.’ Was It Good Enough to Strike a Deal? 
+
+ 5 hours ago 
+
+ This CEO’s Controversial Interview Tactic Could Be the Secret to Hiring the Right People: ‘Wondering If I’m Insane or Brilliant’ 
+
+ 19 hours ago 
+
+ Make This Counterintuitive Move to Become a More Effective Leader 
+
+ 20 hours ago 
+
+ 
+ Entrepreneur Store 
+ 
+ 
+
+ Entrepreneur Store
+
+ 
+ Entrepreneur Staff
+
+ Your one-stop shop for the latest technology, online courses and productivity tools to help your business and personal growth.
+
+ Related Content 
+
+ Building a Business 
+
+ I Run a Portfolio of High-Growth Companies — This Practice Makes It All Possible 
+
+ Entrepreneurship isn't limited by ambition but by the absence of systems that turn effort into sustainable growth. 
+
+ By David Boice 
+
+ Business Accounting 
+
+ Has This Area of the U.S. Quietly Found the Formula to Smarter Startup Growth? 
+
+ As investors turn to capital efficiency and sustainable scaling, there are lessons to be learned from the Southeast — where founders have long built successful companies by doing more with less. 
+
+ By Andrew Albert 
+
+ You’re Using AI Wrong — This Is the Expert Fix to Give It the Perfect Prompt 
+
+ AI can transform your productivity — but only if you know the right way to communicate with it. 
+
+ By David Peterson 
+
+ Business News 
+
+ This CEO’s Controversial Interview Tactic Could Be the Secret to Hiring the Right People: ‘Wondering If I’m Insane or Brilliant’ 
+
+ Gagan Biyani calls job candidates' reactions ""the most telling part"" of the interview. 
+
+ By Sherin Shibu 
+
+ Thought Leaders 
+
+ Make This Counterintuitive Move to Become a More Effective Leader 
+
+ In business cultures obsessed with speed and decisiveness, restraint can be one of the smartest forms of strategy. 
+
+ By Michel Koopman 
+
+ Building a Business 
+
+ The $119 Million Reason You Should Never Give Up on a Cold Lead 
+
+ I emailed 126,148 leads that were over five years old — 61 responded, and seven converted that same week. I'd say that's worth being ""annoying"" to a few. 
+
+ By Joy Gendusa 
+
+Sign up for our free daily newsletter
+
+We'll be in your inbox every morning Monday-Saturday with all the day’s top business news, inspiring stories, best advice and exclusive reporting from Entrepreneur.
+
+I understand that the data I am submitting will be used to provide me with the above-described products and/or services and communications in connection therewith.
+
+Read our privacy policy for more information.
+
+Newsletters
+
+White Papers
+
+Join the Leadership Network
+
+Get Unlimited Access on Entrepreneur.com
+
+Manage Magazine Subscription
+
+Advertise with Entrepreneur
+
+Entrepreneur Authorities
+
+Entrepreneur Books Group
+
+Entrepreneur Press
+
+Ask an Expert
+
+Daily Deals
+
+Terms of Use
+
+Privacy Policy
+
+Cookies Policy
+
+Accessibility Statement
+
+Contact Support
+
+Cookie Management
+
+ Copyright ©
+ 2025 Entrepreneur Media, LLC All rights reserved. Entrepreneur® and its
+ related marks are registered trademarks of Entrepreneur Media, LLC. 
+
+ We are a proud American independent media company that has never taken a dime of USAID taxpayer money 🇺🇸
+
+United States
+
+Asia Pacific
+
+Middle East
+
+United Kingdom",2025-12-09 11:31:28,['Entrepreneur Store'],,,"Only Hours Left to Save Big on this AI-Powered Stock Picker That&#39;s Perfect for Entrepreneurs
+Skip to main content
+
+Build Your Business
+
+Start Your Business
+
+Market Research and Validation
+
+Identify Your Target Audience
+
+Competitive Analysis
+
+Pricing Strategy
+
+Validate Your Business Idea
+
+Interview Customers
+
+Planning and Strategy
+
+Write Your Business Plan
+
+Choose Your Business Model
+
+Decide Your Business Structure
+
+Register Your Business
+
+Bootstrapping
+
+Loans and Grants
+
+Angel and VC Funding
+
+Crowdfunding
+
+Launch Your Business
+
+Branding Basics
+
+Name Your Company
+
+Logos and Design
+
+Website Basics
+
+Product Packaging
+
+How to Build a Brand from Scratch
+
+Build Your Team
+
+Open a Brick and Mortar
+
+Online Presence
+
+Run Your Business
+
+Monitor Your Finances
+
+Use Data Analytics to Make Decisions
+
+Understand Business Law
+
+Improve Operations and Logistics
+
+Human Resources
+
+Customer Service
+
+Manage Your Time and Productivity
+
+Grow Your Business
+
+Boost Your Sales
+
+Develop Your Pitch
+
+Build Your Sales Team
+
+Manage the Sales Process
+
+Master Negotiation
+
+Close the Deal
+
+Market Your Business
+
+Refine Your Message
+
+Create a Marketing Plan
+
+Get Your First Customers
+
+Social Media Marketing
+
+Email Marketing
+
+SEO for Entrepreneurs
+
+Marketing Launch Checklist
+
+Leadership and Culture
+
+Business Success Stories
+
+Exit and Transition
+
+Sell Your Business
+
+Plan Your Exit
+
+Business Valuation Basics
+
+Start a Side Hustle
+
+Side Hustles
+
+50 Side Hustle Ideas
+
+How to Start a Side Hustle
+
+Side Hustle Success Stories
+
+Free Weekly Help to Your Inbox
+
+Passive Income
+
+Your Complete Guide to Passive Income
+
+Passive Income 101 for Beginners
+
+Passive Income Ideas
+
+Gig Economy
+
+Buy a Franchise
+
+Find the Right Franchise For You
+
+Entrepreneur’s Franchise 500 Rankings
+
+Top Franchises under $25k
+
+Top Franchises under $50k
+
+Top Franchises under $100k
+
+Top Franchises under $150k
+
+Franchise Success Stories
+
+How to Thrive as a Franchisee
+
+Explore Multi-Unit Ownership
+
+Get 1:1 Personalized Help
+
+Keep Up With the Franchise Industry
+
+Business News
+
+Submit Article
+
+United States
+
+Asia Pacific
+
+Middle East
+
+United Kingdom
+
+ Search 
+
+ Search 
+
+Submit Article
+
+Build Your Business
+
+Start Your Business
+
+Market Research and Validation
+
+Identify Your Target Audience
+
+Competitive Analysis
+
+Pricing Strategy
+
+Validate Your Business Idea
+
+Interview Customers
+
+Planning and Strategy
+
+Write Your Business Plan
+
+Choose Your Business Model
+
+Decide Your Business Structure
+
+Register Your Business
+
+Bootstrapping
+
+Loans and Grants
+
+Angel and VC Funding
+
+Crowdfunding
+
+Launch Your Business
+
+Branding Basics
+
+Name Your Company
+
+Logos and Design
+
+Website Basics
+
+Product Packaging
+
+How to Build a Brand from Scratch
+
+Build Your Team
+
+Open a Brick and Mortar
+
+Online Presence
+
+Run Your Business
+
+Monitor Your Finances
+
+Use Data Analytics to Make Decisions
+
+Understand Business Law
+
+Improve Operations and Logistics
+
+Human Resources
+
+Customer Service
+
+Manage Your Time and Productivity
+
+Grow Your Business
+
+Boost Your Sales
+
+Develop Your Pitch
+
+Build Your Sales Team
+
+Manage the Sales Process
+
+Master Negotiation
+
+Close the Deal
+
+Market Your Business
+
+Refine Your Message
+
+Create a Marketing Plan
+
+Get Your First Customers
+
+Social Media Marketing
+
+Email Marketing
+
+SEO for Entrepreneurs
+
+Marketing Launch Checklist
+
+Leadership and Culture
+
+Business Success Stories
+
+Exit and Transition
+
+Sell Your Business
+
+Plan Your Exit
+
+Business Valuation Basics
+
+Start a Side Hustle
+
+Side Hustles
+
+50 Side Hustle Ideas
+
+How to Start a Side Hustle
+
+Side Hustle Success Stories
+
+Free Weekly Help to Your Inbox
+
+Passive Income
+
+Your Complete Guide to Passive Income
+
+Passive Income 101 for Beginners
+
+Passive Income Ideas
+
+Gig Economy
+
+Buy a Franchise
+
+Find the Right Franchise For You
+
+Entrepreneur’s Franchise 500 Rankings
+
+Top Franchises under $25k
+
+Top Franchises under $50k
+
+Top Franchises under $100k
+
+Top Franchises under $150k
+
+Franchise Success Stories
+
+How to Thrive as a Franchisee
+
+Explore Multi-Unit Ownership
+
+Get 1:1 Personalized Help
+
+Keep Up With the Franchise Industry
+
+Business News
+
+Submit Article
+
+Submit Article
+
+ 
+
+Build Your Business
+
+Start Your Business
+
+Market Research and Validation
+
+Identify Your Target Audience
+
+Competitive Analysis
+
+Pricing Strategy
+
+Validate Your Business Idea
+
+Interview Customers
+
+Planning and Strategy
+
+Write Your Business Plan
+
+Choose Your Business Model
+
+Decide Your Business Structure
+
+Register Your Business
+
+Bootstrapping
+
+Loans and Grants
+
+Angel and VC Funding
+
+Crowdfunding
+
+Launch Your Business
+
+Branding Basics
+
+Name Your Company
+
+Logos and Design
+
+Website Basics
+
+Product Packaging
+
+How to Build a Brand from Scratch
+
+Build Your Team
+
+Open a Brick and Mortar
+
+Online Presence
+
+Run Your Business
+
+Monitor Your Finances
+
+Use Data Analytics to Make Decisions
+
+Understand Business Law
+
+Improve Operations and Logistics
+
+Human Resources
+
+Customer Service
+
+Manage Your Time and Productivity
+
+Grow Your Business
+
+Boost Your Sales
+
+Develop Your Pitch
+
+Build Your Sales Team
+
+Manage the Sales Process
+
+Master Negotiation
+
+Close the Deal
+
+Market Your Business
+
+Refine Your Message
+
+Create a Marketing Plan
+
+Get Your First Customers
+
+Social Media Marketing
+
+Email Marketing
+
+SEO for Entrepreneurs
+
+Marketing Launch Checklist
+
+Leadership and Culture
+
+Business Success Stories
+
+Exit and Transition
+
+Sell Your Business
+
+Plan Your Exit
+
+Business Valuation Basics
+
+Start a Side Hustle
+
+Side Hustles
+
+50 Side Hustle Ideas
+
+How to Start a Side Hustle
+
+Side Hustle Success Stories
+
+Free Weekly Help to Your Inbox
+
+Passive Income
+
+Your Complete Guide to Passive Income
+
+Passive Income 101 for Beginners
+
+Passive Income Ideas
+
+Gig Economy
+
+Buy a Franchise
+
+Find the Right Franchise For You
+
+Entrepreneur’s Franchise 500 Rankings
+
+Top Franchises under $25k
+
+Top Franchises under $50k
+
+Top Franchises under $100k
+
+Top Franchises under $150k
+
+Franchise Success Stories
+
+How to Thrive as a Franchisee
+
+Explore Multi-Unit Ownership
+
+Get 1:1 Personalized Help
+
+Keep Up With the Franchise Industry
+
+Business News
+
+ /
+
+ 
+ Building a Business 
+ 
+
+ 
+ Business Accounting 
+ 
+
+ Only Hours Left to Save Big on this AI-Powered Stock Picker That’s Perfect for Entrepreneurs 
+
+ 
+
+It helps entrepreneurs manage their portfolios and now it’s just $55 for life.
+
+ By 
+ 
+ Entrepreneur Store 
+ 
+
+ edited by 
+ Jason Fell 
+
+ Dec 07, 2025 
+
+ Add Entrepreneur
+
+ 
+
+Copied to clipboard
+
+ 
+
+ 
+
+ Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them, Entrepreneur may get a small share of the revenue from the sale from our commerce partners.
+
+Approximately 62% of U.S. adults own stock, according to Yahoo Finance. If you’re among the minority, there’s now an app that can help entrepreneurs invest and it’s called Sterling Stock Picker. It helps you make confident decisions despite having limited free time for research.
+
+Right now, you can secure a lifetime subscription to Sterling Stock Picker for only $55.19 (reg. $486) with code STOCKS20 through tonight at midnight.
+
+This AI-powered stock picker helps you invest with confidence
+
+If you wish you had more time to research the stock market and choose the right stocks for your portfolio, Sterling Stock Picker can help. This AI-powered, award-winning app helps you make informed decisions on when to buy, sell, or hold stocks.
+
+Sterling Stock Picker has a five-minute questionnaire that helps determine your risk preferences and personal values, which in turn helps it select the best stocks for your portfolio. A North Star Rating System shows information such as the top-performing companies with over 50 percent quarterly revenue growth, so you can invest confidently.
+
+If you prefer a more hands-off approach, Sterling Stock Picker offers that option as well with a Done-for-You Portfolio Builder that creates a diversified portfolio based on your risk tolerance and investment goals. This option takes out all the guessing, so you can get back to work.
+
+This lifetime subscription includes Finley, Sterling Stock Picker’s AI financial coach. Finley will answer questions about your portfolio, individual stocks, or the market in general. You can also connect with fellow investors through the community chat forum.
+
+Act fast to secure a lifetime subscription to Sterling Stock Picker for only $55.19 with code STOCKS20 through tonight at midnight.
+
+StackSocial prices subject to change.
+
+Approximately 62% of U.S. adults own stock, according to Yahoo Finance. If you’re among the minority, there’s now an app that can help entrepreneurs invest and it’s called Sterling Stock Picker. It helps you make confident decisions despite having limited free time for research.
+
+Right now, you can secure a lifetime subscription to Sterling Stock Picker for only $55.19 (reg. $486) with code STOCKS20 through tonight at midnight.
+
+This AI-powered stock picker helps you invest with confidence
+
+If you wish you had more time to research the stock market and choose the right stocks for your portfolio, Sterling Stock Picker can help. This AI-powered, award-winning app helps you make informed decisions on when to buy, sell, or hold stocks.
+
+ The rest of this article is locked.
+
+ Join Entrepreneur+ today for access.
+
+ 
+ Subscribe Now
+
+ 
+
+ Already have an account? Sign In
+
+ 
+
+ Latest 
+
+ Investors Called This Pitch ‘Nearly Perfect.’ Was It Good Enough to Strike a Deal? 
+
+ 5 hours ago 
+
+ This CEO’s Controversial Interview Tactic Could Be the Secret to Hiring the Right People: ‘Wondering If I’m Insane or Brilliant’ 
+
+ 19 hours ago 
+
+ Make This Counterintuitive Move to Become a More Effective Leader 
+
+ 20 hours ago 
+
+ 
+ Entrepreneur Store 
+ 
+ 
+
+ Entrepreneur Store
+
+ 
+ Entrepreneur Staff
+
+ Your one-stop shop for the latest technology, online courses and productivity tools to help your business and personal growth.
+
+ Related Content 
+
+ Building a Business 
+
+ I Run a Portfolio of High-Growth Companies — This Practice Makes It All Possible 
+
+ Entrepreneurship isn't limited by ambition but by the absence of systems that turn effort into sustainable growth. 
+
+ By David Boice 
+
+ Business Accounting 
+
+ Has This Area of the U.S. Quietly Found the Formula to Smarter Startup Growth? 
+
+ As investors turn to capital efficiency and sustainable scaling, there are lessons to be learned from the Southeast — where founders have long built successful companies by doing more with less. 
+
+ By Andrew Albert 
+
+ You’re Using AI Wrong — This Is the Expert Fix to Give It the Perfect Prompt 
+
+ AI can transform your productivity — but only if you know the right way to communicate with it. 
+
+ By David Peterson 
+
+ Business News 
+
+ This CEO’s Controversial Interview Tactic Could Be the Secret to Hiring the Right People: ‘Wondering If I’m Insane or Brilliant’ 
+
+ Gagan Biyani calls job candidates' reactions ""the most telling part"" of the interview. 
+
+ By Sherin Shibu 
+
+ Thought Leaders 
+
+ Make This Counterintuitive Move to Become a More Effective Leader 
+
+ In business cultures obsessed with speed and decisiveness, restraint can be one of the smartest forms of strategy. 
+
+ By Michel Koopman 
+
+ Building a Business 
+
+ The $119 Million Reason You Should Never Give Up on a Cold Lead 
+
+ I emailed 126,148 leads that were over five years old — 61 responded, and seven converted that same week. I'd say that's worth being ""annoying"" to a few. 
+
+ By Joy Gendusa 
+
+Sign up for our free daily newsletter
+
+We'll be in your inbox every morning Monday-Saturday with all the day’s top business news, inspiring stories, best advice and exclusive reporting from Entrepreneur.
+
+I understand that the data I am submitting will be used to provide me with the above-described products and/or services and communications in connection therewith.
+
+Read our privacy policy for more information.
+
+Newsletters
+
+White Papers
+
+Join the Leadership Network
+
+Get Unlimited Access on Entrepreneur.com
+
+Manage Magazine Subscription
+
+Advertise with Entrepreneur
+
+Entrepreneur Authorities
+
+Entrepreneur Books Group
+
+Entrepreneur Press
+
+Ask an Expert
+
+Daily Deals
+
+Terms of Use
+
+Privacy Policy
+
+Cookies Policy
+
+Accessibility Statement
+
+Contact Support
+
+Cookie Management
+
+ Copyright ©
+ 2025 Entrepreneur Media, LLC All rights reserved. Entrepreneur® and its
+ related marks are registered trademarks of Entrepreneur Media, LLC. 
+
+ We are a proud American independent media company that has never taken a dime of USAID taxpayer money 🇺🇸
+
+United States
+
+Asia Pacific
+
+Middle East
+
+United Kingdom"
+The pitch from Seattle startup Yoodli seems to be working well. Read More,https://cdn.geekwire.com/wp-content/uploads/2025/12/Screenshot-2025-12-08-at-10.19.55-PM.png,0.346,en,"Here’s the pitch deck used by Yoodli, the Seattle startup now valued at more than $300M",https://www.geekwire.com/2025/heres-the-pitch-deck-used-by-yoodli-the-seattle-startup-now-valued-at-more-than-300m/,us,386828328,"Define the problem. Describe the solution. Note the value proposition. Highlight leadership bios. Call out your customers. Show growth metrics. Set the long-term vision. 
+
+This is the pitch from Seattle startup Yoodli — and it seems to be working well. 
+
+The company, which sells software that helps users practice important conversations, last week announced a $40 million round, just eight months after raising a separate $13.7 million round in May. Its valuation has about tripled since then to around $300 million.
+
+Yoodli shared its latest pitch deck with GeekWire. The 11-slide presentation has the core elements of a solid deck. It’s straight forward and simple — quick problem-framing and a clear mission statement that sets up the rest of the story.
+
+In a startup era where seemingly every pitch mentions AI, Yoodli’s framing of the technology stands out: “Other AI is replacing jobs; Yoodli uses AI to help humans be their best and take control of their career.”
+
+The deck also reflects Yoodli’s shift from consumer to enterprise. Yoodli got its start in 2021 at the AI2 Incubator in Seattle with a consumer-focused offering targeted at practicing public speaking. It has since turned its focus to the enterprise market, working with companies such as SAP, Google, Snowflake, and Korn Ferry to help employees practice their sales pitches and feedback sessions.
+
+Looking ahead, Yoodli said it will use the new funding to expand into what it calls “experiential learning.”
+
+“Experiential learning is the next step of conversation coaching — helping people learn, practice, and apply skills with roleplays at the center of their experience,” co-founder and CEO Varun Puri wrote on LinkedIn. “We’re making learning more fun and actionable for individuals and much more closely tied to ROI for organizations.”
+
+The raise comes amid competition in the AI-powered workforce training market, as employers look for scalable tools to upskill workers in communication, leadership, and customer engagement.
+
+Yoodli has grown revenue around 900% in the past year. Its headcount has tripled to more than 40 people, including several new C-suite additions.
+
+WestBridge Capital led the latest round, which included previous investors Neotribe and Madrona. 
+
+“Yoodli is becoming the natural way organizations help people learn and build the skills that drive revenue, strengthen customer relationships, and influence culture,” Madrona wrote in a blog post.
+
+Check out the full deck below.
+
+ Yoodli Pitch Deck — December 2025 by GeekWire",2025-12-09 16:16:04,['Taylor Soper'],,,"Here’s the pitch deck used by Yoodli, the Seattle startup now valued at more than $300M
+Define the problem. Describe the solution. Note the value proposition. Highlight leadership bios. Call out your customers. Show growth metrics. Set the long-term vision. 
+
+This is the pitch from Seattle startup Yoodli — and it seems to be working well. 
+
+The company, which sells software that helps users practice important conversations, last week announced a $40 million round, just eight months after raising a separate $13.7 million round in May. Its valuation has about tripled since then to around $300 million.
+
+Yoodli shared its latest pitch deck with GeekWire. The 11-slide presentation has the core elements of a solid deck. It’s straight forward and simple — quick problem-framing and a clear mission statement that sets up the rest of the story.
+
+In a startup era where seemingly every pitch mentions AI, Yoodli’s framing of the technology stands out: “Other AI is replacing jobs; Yoodli uses AI to help humans be their best and take control of their career.”
+
+The deck also reflects Yoodli’s shift from consumer to enterprise. Yoodli got its start in 2021 at the AI2 Incubator in Seattle with a consumer-focused offering targeted at practicing public speaking. It has since turned its focus to the enterprise market, working with companies such as SAP, Google, Snowflake, and Korn Ferry to help employees practice their sales pitches and feedback sessions.
+
+Looking ahead, Yoodli said it will use the new funding to expand into what it calls “experiential learning.”
+
+“Experiential learning is the next step of conversation coaching — helping people learn, practice, and apply skills with roleplays at the center of their experience,” co-founder and CEO Varun Puri wrote on LinkedIn. “We’re making learning more fun and actionable for individuals and much more closely tied to ROI for organizations.”
+
+The raise comes amid competition in the AI-powered workforce training market, as employers look for scalable tools to upskill workers in communication, leadership, and customer engagement.
+
+Yoodli has grown revenue around 900% in the past year. Its headcount has tripled to more than 40 people, including several new C-suite additions.
+
+WestBridge Capital led the latest round, which included previous investors Neotribe and Madrona. 
+
+“Yoodli is becoming the natural way organizations help people learn and build the skills that drive revenue, strengthen customer relationships, and influence culture,” Madrona wrote in a blog post.
+
+Check out the full deck below.
+
+ Yoodli Pitch Deck — December 2025 by GeekWire"

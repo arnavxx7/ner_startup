@@ -1,0 +1,10 @@
+transformers
+torch==2.8.0
+tensorflow
+pyperclip
+spacy
+pytorch_pretrained_bert
+keras
+pandas
+scikit-learn
+seqeval
