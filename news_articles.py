@@ -45,8 +45,8 @@ from worldnewsapi.rest import ApiException
 configuration = worldnewsapi.Configuration(
     host = "https://api.worldnewsapi.com"
 )
-configuration.api_key['apiKey'] = "402302269a2e4e90a029481f80f40a1d"
-configuration.api_key['headerApiKey'] = "402302269a2e4e90a029481f80f40a1d"
+configuration.api_key['apiKey'] = os.getenv("NEWS_API_KEY")
+configuration.api_key['headerApiKey'] = os.getenv("NEWS_API_KEY")
 with worldnewsapi.ApiClient(configuration) as api_client:
     # Create an instance of the API class
     api_instance = worldnewsapi.NewsApi(api_client)
